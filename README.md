@@ -4,7 +4,7 @@ Setup:
 3. Start docker container: ```docker-compose up```
 4. Open the app 'food-picker_app_1' with the docker CLI
 5. Run migrations: ```php artisan migrate```
-6. Seed database: ```php artisan db:seed```
+6. Seed database (DatabaseSeeder.php): ```php artisan db:seed```
 7. Run feature tests (CityControllerTest.php, CuisineControllerTest.php, RestaurantControllerTest.php): ```php artisan test```
 
 
