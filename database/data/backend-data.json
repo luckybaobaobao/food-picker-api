@@ -1,0 +1,3778 @@
+[
+    {
+        "clientKey": "e5CDWLrkOYxeissNSJ",
+        "restaurantName": "Thaimiddag",
+        "cuisine": "Thai",
+        "city": "Stockholm",
+        "latitude": "59.332401",
+        "longitude": "18.006559"
+    },
+    {
+        "clientKey": "ZXa4NQMpEqXEUBnwGG",
+        "restaurantName": "Hai",
+        "cuisine": "Sushi",
+        "city": "Malm\u00f6",
+        "latitude": "55.599091",
+        "longitude": "12.997970"
+    },
+    {
+        "clientKey": "w01N26WYTGgbdOm4Mx",
+        "restaurantName": "Zen Sushi",
+        "cuisine": "Sushi",
+        "city": "Lund",
+        "latitude": "55.701431",
+        "longitude": "13.197756"
+    },
+    {
+        "clientKey": "CIdMJJ0dqHYB2mdOMs",
+        "restaurantName": "Delikatessen",
+        "cuisine": "Gourmet",
+        "city": "Malm\u00f6",
+        "latitude": "55.598000",
+        "longitude": "12.998900"
+    },
+    {
+        "clientKey": "f7wdwD5uIalbIIPLL5",
+        "restaurantName": "Gr\u00f6nt o' Gott LTH",
+        "cuisine": "Sallad",
+        "city": "Lund",
+        "latitude": "55.703499",
+        "longitude": "13.191000"
+    },
+    {
+        "clientKey": "Imb76Ukk0RraBIluoj",
+        "restaurantName": "Salads and Smoothies City",
+        "cuisine": "Sallad & Smoothies",
+        "city": "Malm\u00f6",
+        "latitude": "55.604748",
+        "longitude": "13.002284"
+    },
+    {
+        "clientKey": "uGGXPPg8Xzf6vxmVi8",
+        "restaurantName": "Sushido R\u00f6rsj\u00f6staden",
+        "cuisine": "Sushi",
+        "city": "Malm\u00f6",
+        "latitude": "55.600101",
+        "longitude": "13.011200"
+    },
+    {
+        "clientKey": "Y2oHuRlNt0hBtJ3zVw",
+        "restaurantName": "Sushido Slottsstaden",
+        "cuisine": "Sushi",
+        "city": "Malm\u00f6",
+        "latitude": "55.597900",
+        "longitude": "12.979000"
+    },
+    {
+        "clientKey": "auJc8iTjQ1Z4og0XIh",
+        "restaurantName": "V.E.S.P.A",
+        "cuisine": "Italienskt",
+        "city": "Lund",
+        "latitude": "55.709766",
+        "longitude": "13.189041"
+    },
+    {
+        "clientKey": "iYiqPw8StxvwATYV8I",
+        "restaurantName": "Roppongi",
+        "cuisine": "Sushi",
+        "city": "Stockholm",
+        "latitude": "59.330799",
+        "longitude": "18.031900"
+    },
+    {
+        "clientKey": "c9kij1qdPImWT7VLzJ",
+        "restaurantName": "Orkid\u00e9",
+        "cuisine": "Asiatiskt",
+        "city": "Stockholm",
+        "latitude": "59.314602",
+        "longitude": "18.071100"
+    },
+    {
+        "clientKey": "tZ1Hr3ozaHRDmT4cao",
+        "restaurantName": "Salads and Smoothies Studio",
+        "cuisine": "Sallad & Smoothies",
+        "city": "Malm\u00f6",
+        "latitude": "55.611980",
+        "longitude": "12.994840"
+    },
+    {
+        "clientKey": "iZuq9WGmF0FMhvfRox",
+        "restaurantName": " Atmosf\u00e4r",
+        "cuisine": "Gourmet",
+        "city": "Malm\u00f6",
+        "latitude": "55.599888",
+        "longitude": "12.996113"
+    },
+    {
+        "clientKey": "8W3r86aFHp0hIV8kS2",
+        "restaurantName": "Amazing Thai",
+        "cuisine": "Thai",
+        "city": "Lund",
+        "latitude": "55.705963",
+        "longitude": "13.183025"
+    },
+    {
+        "clientKey": "Xe3vb1d32Qwtdmh8tK",
+        "restaurantName": "Noodle Mama",
+        "cuisine": "Nudlar",
+        "city": "Stockholm",
+        "latitude": "59.312042",
+        "longitude": "18.073725"
+    },
+    {
+        "clientKey": "268dBkDDFWDUjpQ7BY",
+        "restaurantName": "Ved",
+        "cuisine": "Vedugn",
+        "city": "Lund",
+        "latitude": "55.702023",
+        "longitude": "13.195213"
+    },
+    {
+        "clientKey": "0ybZzjo4357J4lzUAT",
+        "restaurantName": "Nonni Sushi",
+        "cuisine": "Japanskt",
+        "city": "Stockholm",
+        "latitude": "59.331707",
+        "longitude": "18.062334"
+    },
+    {
+        "clientKey": "fda5Vnt6qPe9eLRzQR",
+        "restaurantName": "OCCO",
+        "cuisine": "Libanesiskt",
+        "city": "Malm\u00f6",
+        "latitude": "55.608105",
+        "longitude": "13.010773"
+    },
+    {
+        "clientKey": "It4wAOvvIhEb5365Lv",
+        "restaurantName": "Bistro Royal",
+        "cuisine": "Gourmet",
+        "city": "Malm\u00f6",
+        "latitude": "55.614918",
+        "longitude": "13.005403"
+    },
+    {
+        "clientKey": "n4dR6Y24VAXw2Zph1K",
+        "restaurantName": "Via Napoli",
+        "cuisine": "Italienskt",
+        "city": "Malm\u00f6",
+        "latitude": "55.601933",
+        "longitude": "12.974625"
+    },
+    {
+        "clientKey": "feVfnKReAACiLtCbMd",
+        "restaurantName": "Gr\u00f6nt o' Gott City",
+        "cuisine": "Sallad",
+        "city": "Lund",
+        "latitude": "55.704659",
+        "longitude": "13.191007"
+    },
+    {
+        "clientKey": "HlUcSjFPIygOKGadNP",
+        "restaurantName": "Redfellas Hansa",
+        "cuisine": "Sallad",
+        "city": "Malm\u00f6",
+        "latitude": "55.602837",
+        "longitude": "13.003669"
+    },
+    {
+        "clientKey": "SUyF6pJJXEXOMg6Gwl",
+        "restaurantName": "Redfellas Emporia",
+        "cuisine": "Sallad",
+        "city": "Malm\u00f6",
+        "latitude": "55.564381",
+        "longitude": "12.973536"
+    },
+    {
+        "clientKey": "pTdvt7OdqipAqmGoVD",
+        "restaurantName": "Sushishopen",
+        "cuisine": "Sushi",
+        "city": "Stockholm",
+        "latitude": "59.334820",
+        "longitude": "18.084278"
+    },
+    {
+        "clientKey": "jK7hZaldXJVzjldgKL",
+        "restaurantName": "Salads and Smoothies - Caroli",
+        "cuisine": "Sallad & Smoothies",
+        "city": "Malm\u00f6",
+        "latitude": "55.607674",
+        "longitude": "13.007161"
+    },
+    {
+        "clientKey": "oawtQ0L04xVfgDeWPL",
+        "restaurantName": "Salads and Smoothies - Centralen",
+        "cuisine": "Sallad & Smoothies",
+        "city": "Malm\u00f6",
+        "latitude": "55.608532",
+        "longitude": "12.999872"
+    },
+    {
+        "clientKey": "EYFXpPVIPCogfQMoMT",
+        "restaurantName": "Green Mango",
+        "cuisine": "Thai",
+        "city": "Malm\u00f6",
+        "latitude": "55.590908",
+        "longitude": "13.010226"
+    },
+    {
+        "clientKey": "8CiDFLVhmMJumD8MAL",
+        "restaurantName": "Libanon Grill",
+        "cuisine": "Libanesiskt",
+        "city": "Stockholm",
+        "latitude": "59.349464",
+        "longitude": "18.049370"
+    },
+    {
+        "clientKey": "rzbXAIjUkPgSNjFVXO",
+        "restaurantName": "Hagen",
+        "cuisine": "Husmanskost",
+        "city": "Malm\u00f6",
+        "latitude": "55.598808",
+        "longitude": "12.998054"
+    },
+    {
+        "clientKey": "6jNCGNyunRASU2VsL4",
+        "restaurantName": "AO Thai",
+        "cuisine": "Thai",
+        "city": "Lund",
+        "latitude": "55.702332",
+        "longitude": "13.196914"
+    },
+    {
+        "clientKey": "O5a3rSglmY2JLefDqA",
+        "restaurantName": "Chill Out Sushi Dalaplan",
+        "cuisine": "Sushi",
+        "city": "Malm\u00f6",
+        "latitude": "55.586205",
+        "longitude": "13.005983"
+    },
+    {
+        "clientKey": "OEPNEXLxK70hXFLQxq",
+        "restaurantName": "Indian Express",
+        "cuisine": "Indiskt",
+        "city": "Malm\u00f6",
+        "latitude": "55.593201",
+        "longitude": "13.007557"
+    },
+    {
+        "clientKey": "5qzUomXmmuxCvRCpIP",
+        "restaurantName": "R\u00e5 Epok",
+        "cuisine": "Sushi",
+        "city": "Lund",
+        "latitude": "55.703983",
+        "longitude": "13.190330"
+    },
+    {
+        "clientKey": "GgXfFwfKKZKd2GsIRM",
+        "restaurantName": "Surf Shack V\u00e4ster",
+        "cuisine": "Burgers",
+        "city": "Malm\u00f6",
+        "latitude": "55.604980",
+        "longitude": "13.003822"
+    },
+    {
+        "clientKey": "xtOhBpO5bJSf8DMLCM",
+        "restaurantName": "Krua Thai",
+        "cuisine": "Thai",
+        "city": "Malm\u00f6",
+        "latitude": "55.591534",
+        "longitude": "13.009036"
+    },
+    {
+        "clientKey": "hxbXOEkgbRI93TlSkE",
+        "restaurantName": "Vieng Thai",
+        "cuisine": "Thai & Pizza",
+        "city": "Malm\u00f6",
+        "latitude": "55.600262",
+        "longitude": "13.011593"
+    },
+    {
+        "clientKey": "aPKfzOBfUAYVDG3W5H",
+        "restaurantName": "Mae Yai",
+        "cuisine": "Thai",
+        "city": "Lund",
+        "latitude": "55.703251",
+        "longitude": "13.188650"
+    },
+    {
+        "clientKey": "h96hjOmYfVsWHjIsYT",
+        "restaurantName": "Monster Steakhouse",
+        "cuisine": "Steakhouse",
+        "city": "Malm\u00f6",
+        "latitude": "55.615131",
+        "longitude": "12.981173"
+    },
+    {
+        "clientKey": "i4ZBHbzKcAVhsaRhsL",
+        "restaurantName": "Chill Out Sushi Slottsstaden",
+        "cuisine": "Sushi",
+        "city": "Malm\u00f6",
+        "latitude": "55.598423",
+        "longitude": "12.980851"
+    },
+    {
+        "clientKey": "YuU1O1xCIYcYDOhJJc",
+        "restaurantName": "Osteria Qui",
+        "cuisine": "Italienskt",
+        "city": "Malm\u00f6",
+        "latitude": "55.596790",
+        "longitude": "12.972445"
+    },
+    {
+        "clientKey": "3nIaahIjAywMKEyMQi",
+        "restaurantName": "Eco Fresh",
+        "cuisine": "Sallad",
+        "city": "Lund",
+        "latitude": "55.701954",
+        "longitude": "13.191920"
+    },
+    {
+        "clientKey": "2yHTpDHkPK7ncwhIxi",
+        "restaurantName": "Gront o Gott ",
+        "cuisine": "Sallad",
+        "city": "Malm\u00f6",
+        "latitude": "55.610069",
+        "longitude": "12.999339"
+    },
+    {
+        "clientKey": "se7QMQCDPags0aAZd3",
+        "restaurantName": "New Delhi Tandoor",
+        "cuisine": "Indiskt",
+        "city": "Lund",
+        "latitude": "55.703304",
+        "longitude": "13.188404"
+    },
+    {
+        "clientKey": "olOwrSJdlg1vlqSQGa",
+        "restaurantName": "Njutbar",
+        "cuisine": "Husmanskost",
+        "city": "Malm\u00f6",
+        "latitude": "55.603973",
+        "longitude": "13.006020"
+    },
+    {
+        "clientKey": "GLCca9fTTbs7SoHAi8",
+        "restaurantName": "Sushi 2 Go",
+        "cuisine": "Sushi",
+        "city": "Lund",
+        "latitude": "55.711315",
+        "longitude": "13.187779"
+    },
+    {
+        "clientKey": "RFVNr3tuzorPryHoSD",
+        "restaurantName": "Holy Greens",
+        "cuisine": "Sallad",
+        "city": "Malm\u00f6",
+        "latitude": "55.604980",
+        "longitude": "13.003822"
+    },
+    {
+        "clientKey": "jCj7rJroGVAkmTtiMc",
+        "restaurantName": "Punjabi Restaurant",
+        "cuisine": "Indiskt",
+        "city": "Lund",
+        "latitude": "55.697453",
+        "longitude": "13.189929"
+    },
+    {
+        "clientKey": "hOEVYW2M0g09YpNHht",
+        "restaurantName": "Masala House",
+        "cuisine": "Indiskt",
+        "city": "Malm\u00f6",
+        "latitude": "55.605019",
+        "longitude": "13.006944"
+    },
+    {
+        "clientKey": "B8iLazjcxA0xZxVqEQ",
+        "restaurantName": "St\u00e4ket",
+        "cuisine": "Italienskt",
+        "city": "Lund",
+        "latitude": "55.704659",
+        "longitude": "13.191007"
+    },
+    {
+        "clientKey": "lFWsEn470866aOhZWx",
+        "restaurantName": "Pizza Hut",
+        "cuisine": "Pizza",
+        "city": "Malm\u00f6",
+        "latitude": "55.550598",
+        "longitude": "13.034212"
+    },
+    {
+        "clientKey": "nj8YUJEkqksgZqai4F",
+        "restaurantName": "Izakaya Koi",
+        "cuisine": "Sushi",
+        "city": "Malm\u00f6",
+        "latitude": "55.605110",
+        "longitude": "12.998359"
+    },
+    {
+        "clientKey": "KPRwZ2CkhMNgRLtcPd",
+        "restaurantName": "Spice & Curry",
+        "cuisine": "Indiskt",
+        "city": "Lund",
+        "latitude": "55.701946",
+        "longitude": "13.193641"
+    },
+    {
+        "clientKey": "RIDjrQ1fL5GW6DTuMZ",
+        "restaurantName": "Mix & Eat",
+        "cuisine": "Sallad",
+        "city": "Malm\u00f6",
+        "latitude": "55.596157",
+        "longitude": "12.983251"
+    },
+    {
+        "clientKey": "ArAK9AuRuX4xSVSCO3",
+        "restaurantName": "Taco Bar",
+        "cuisine": "Texmex",
+        "city": "Malm\u00f6",
+        "latitude": "55.581135",
+        "longitude": "13.003528"
+    },
+    {
+        "clientKey": "qhyksFeUcKUq6YxvHE",
+        "restaurantName": "Flames",
+        "cuisine": "Italienskt",
+        "city": "Stockholm",
+        "latitude": "59.336254",
+        "longitude": "18.063152"
+    },
+    {
+        "clientKey": "pbMCl4wcvmE24TOKcy",
+        "restaurantName": "Pizza Hut H\u00f6torget",
+        "cuisine": "Pizza",
+        "city": "Stockholm",
+        "latitude": "59.334667",
+        "longitude": "18.062830"
+    },
+    {
+        "clientKey": "Bzct5oHsQF56Ja3JvX",
+        "restaurantName": "Pizza Hut Klarabergsg",
+        "cuisine": "Pizza",
+        "city": "Stockholm",
+        "latitude": "59.331806",
+        "longitude": "18.060097"
+    },
+    {
+        "clientKey": "gkJ9WidQqG5V1KkS2y",
+        "restaurantName": "Pizza Hut Kungsgatan",
+        "cuisine": "Pizza",
+        "city": "G\u00f6teborg",
+        "latitude": "57.703911",
+        "longitude": "11.963329"
+    },
+    {
+        "clientKey": "PaoqzLOU35GY4VkGkR",
+        "restaurantName": "Pizza Hut Nordstan",
+        "cuisine": "Pizza",
+        "city": "G\u00f6teborg",
+        "latitude": "57.708412",
+        "longitude": "11.970067"
+    },
+    {
+        "clientKey": "3C5VMFAjyksBchJltK",
+        "restaurantName": "Salad & Sushi Sv\u00e5gertorp",
+        "cuisine": "Sallad & Sushi",
+        "city": "Malm\u00f6",
+        "latitude": "55.553375",
+        "longitude": "12.995891"
+    },
+    {
+        "clientKey": "drPVFFgSb7zUuQwW6x",
+        "restaurantName": "Mrs Saigon",
+        "cuisine": "Vietnamesiskt",
+        "city": "Malm\u00f6",
+        "latitude": "55.603542",
+        "longitude": "12.998394"
+    },
+    {
+        "clientKey": "CGL9TcFJNGh8p8Yhoi",
+        "restaurantName": "D\u00f6ner Kebab S\u00f6derv\u00e4rn",
+        "cuisine": "Kebab",
+        "city": "Malm\u00f6",
+        "latitude": "55.588783",
+        "longitude": "13.007629"
+    },
+    {
+        "clientKey": "Lb1pvmTrjLOchaXz8c",
+        "restaurantName": "Bar Burrito",
+        "cuisine": "Tex Mex",
+        "city": "Malm\u00f6",
+        "latitude": "55.598438",
+        "longitude": "12.996156"
+    },
+    {
+        "clientKey": "JmptXea88ocGz2iPEQ",
+        "restaurantName": "Rauhrackel",
+        "cuisine": "\u00d6sterrikisk matlagning",
+        "city": "Lund",
+        "latitude": "55.703983",
+        "longitude": "13.197843"
+    },
+    {
+        "clientKey": "OgGo9MwHKtud0mlR4h",
+        "restaurantName": "Green Chili Indian Cuisine",
+        "cuisine": "Indiskt",
+        "city": "Malm\u00f6",
+        "latitude": "55.605003",
+        "longitude": "12.998424"
+    },
+    {
+        "clientKey": "4BeulRDrN1PWSAUGjD",
+        "restaurantName": "Wasabi Saluhallen",
+        "cuisine": "Japanskt",
+        "city": "Lund",
+        "latitude": "55.701431",
+        "longitude": "13.196511"
+    },
+    {
+        "clientKey": "i8OVdvCrGb0OScW6yj",
+        "restaurantName": "Zocalo",
+        "cuisine": "Mexikanskt ",
+        "city": "Malm\u00f6",
+        "latitude": "55.601494",
+        "longitude": "13.001858"
+    },
+    {
+        "clientKey": "Z9TvpCyIf0yNuhqueM",
+        "restaurantName": "Tugg Burgers",
+        "cuisine": "Hamburgare",
+        "city": "G\u00f6teborg",
+        "latitude": "57.705379",
+        "longitude": "11.965568"
+    },
+    {
+        "clientKey": "BsmBMPJbNHHut53Sa9",
+        "restaurantName": "Tugg Burgers",
+        "cuisine": "Burgare",
+        "city": "Lund",
+        "latitude": "55.704548",
+        "longitude": "13.191686"
+    },
+    {
+        "clientKey": "SGckkBSUJ1byCze3Z8",
+        "restaurantName": "Misoteket",
+        "cuisine": "Soppa",
+        "city": "Malm\u00f6",
+        "latitude": "55.606602",
+        "longitude": "12.997515"
+    },
+    {
+        "clientKey": "GbZoycOSMlJbpWhB8K",
+        "restaurantName": "Sushido Malm\u00f6 Live",
+        "cuisine": "Sushi",
+        "city": "Malm\u00f6",
+        "latitude": "55.607468",
+        "longitude": "12.992078"
+    },
+    {
+        "clientKey": "1tCBnGzaBjVKB9VyBM",
+        "restaurantName": "Italia il Ristorante",
+        "cuisine": "Italienskt",
+        "city": "Lund",
+        "latitude": "55.703228",
+        "longitude": "13.190305"
+    },
+    {
+        "clientKey": "Fqf2FNr6ttEel0k824",
+        "restaurantName": "Hjulet Mat & Vin",
+        "cuisine": "Husmanskost",
+        "city": "Lund",
+        "latitude": "55.701359",
+        "longitude": "13.198132"
+    },
+    {
+        "clientKey": "2UvNENHU0F9AZaAs4e",
+        "restaurantName": "Patisseriet",
+        "cuisine": "Sallader & Bakverk",
+        "city": "Lund",
+        "latitude": "55.703987",
+        "longitude": "13.191364"
+    },
+    {
+        "clientKey": "gIXHxfeh3cBvRuxUqe",
+        "restaurantName": "Max Stortorget",
+        "cuisine": "Hamburgare",
+        "city": "Malm\u00f6",
+        "latitude": "55.605736",
+        "longitude": "13.000098"
+    },
+    {
+        "clientKey": "MwA83DlfVmhWxt8vGt",
+        "restaurantName": "Max",
+        "cuisine": "Hamburgare",
+        "city": "Lund",
+        "latitude": "55.711742",
+        "longitude": "13.180982"
+    },
+    {
+        "clientKey": "poiSfwt4xcUyISKkAX",
+        "restaurantName": "Max Ystadv\u00e4gen",
+        "cuisine": "Hamburgare",
+        "city": "Malm\u00f6",
+        "latitude": "55.572701",
+        "longitude": "13.038453"
+    },
+    {
+        "clientKey": "rhpBMHwDfyd4UYq1tS",
+        "restaurantName": "Usagi",
+        "cuisine": "Asiatiskt",
+        "city": "G\u00f6teborg",
+        "latitude": "57.729969",
+        "longitude": "12.012561"
+    },
+    {
+        "clientKey": "ym6l8Qz8sbHkzXgYtb",
+        "restaurantName": "Vig\u00e5rda",
+        "cuisine": "Hamburgare",
+        "city": "Malm\u00f6",
+        "latitude": "55.608807",
+        "longitude": "13.002014"
+    },
+    {
+        "clientKey": "rh4m7WyN4NvXnhnXD0",
+        "restaurantName": "Juicenmore",
+        "cuisine": "Sallad",
+        "city": "Malm\u00f6",
+        "latitude": "55.609692",
+        "longitude": "12.979037"
+    },
+    {
+        "clientKey": "scOX3ActQZVxlZxOzc",
+        "restaurantName": "Kinjo Sushi",
+        "cuisine": "Sushi",
+        "city": "Lund",
+        "latitude": "55.702099",
+        "longitude": "13.196249"
+    },
+    {
+        "clientKey": "0l0PwLSoLZEgU4xzzb",
+        "restaurantName": "Bollywood",
+        "cuisine": "Indiskt",
+        "city": "Malm\u00f6",
+        "latitude": "55.604572",
+        "longitude": "13.004894"
+    },
+    {
+        "clientKey": "FRz1WfEgKWF4i2olhC",
+        "restaurantName": "Steakhouse",
+        "cuisine": "Grillat",
+        "city": "Malm\u00f6",
+        "latitude": "55.604877",
+        "longitude": "12.998457"
+    },
+    {
+        "clientKey": "orRTxn6zey6fcxT3FF",
+        "restaurantName": "Mealprep",
+        "cuisine": "H\u00e4lsotallrikar",
+        "city": "Stockholm",
+        "latitude": "59.334980",
+        "longitude": "18.067461"
+    },
+    {
+        "clientKey": "N0k08vaxQYefK1qrHu",
+        "restaurantName": "Tandoori House",
+        "cuisine": "Indiskt",
+        "city": "Malm\u00f6",
+        "latitude": "55.605228",
+        "longitude": "13.003324"
+    },
+    {
+        "clientKey": "RDSP4UniZg0Jy3AhY3",
+        "restaurantName": "Sushi For You",
+        "cuisine": "Sushi",
+        "city": "Malm\u00f6",
+        "latitude": "55.615131",
+        "longitude": "12.981174"
+    },
+    {
+        "clientKey": "8IpYJP2FKdQBen3Had",
+        "restaurantName": "Golden Shiva",
+        "cuisine": "Indiskt",
+        "city": "Malm\u00f6",
+        "latitude": "55.591499",
+        "longitude": "13.010957"
+    },
+    {
+        "clientKey": "cVxHGaG5gvDBlJghop",
+        "restaurantName": "Delhi Indisk",
+        "cuisine": "Indiskt",
+        "city": "Malm\u00f6",
+        "latitude": "55.592995",
+        "longitude": "13.005387"
+    },
+    {
+        "clientKey": "lhXnnfBbiRb1hmQg5l",
+        "restaurantName": "Max Nova",
+        "cuisine": "Hamburgare",
+        "city": "Lund",
+        "latitude": "55.716080",
+        "longitude": "13.156172"
+    },
+    {
+        "clientKey": "dXw5ncVY6lZXqxV23x",
+        "restaurantName": "Lotta Love Superfoodbar",
+        "cuisine": "Acaibowls",
+        "city": "Malm\u00f6",
+        "latitude": "55.597458",
+        "longitude": "13.000163"
+    },
+    {
+        "clientKey": "qaMqNVS9DUdSFhQazD",
+        "restaurantName": "Gerege Korean",
+        "cuisine": "Koreanskt k\u00f6k",
+        "city": "Malm\u00f6",
+        "latitude": "55.604172",
+        "longitude": "13.009814"
+    },
+    {
+        "clientKey": "1L767vKmSJZH8IMeHo",
+        "restaurantName": "Lanna Thai Bistro",
+        "cuisine": "Thai",
+        "city": "Malm\u00f6",
+        "latitude": "55.600105",
+        "longitude": "13.007873"
+    },
+    {
+        "clientKey": "eed31JbF6a5MUOOulv",
+        "restaurantName": "Bangkok Thai",
+        "cuisine": "Thai",
+        "city": "Malm\u00f6",
+        "latitude": "55.597607",
+        "longitude": "13.009200"
+    },
+    {
+        "clientKey": "qJqghbX65ZYcg0V70i",
+        "restaurantName": "Surf Shack",
+        "cuisine": "Burgers",
+        "city": "Lund",
+        "latitude": "55.701973",
+        "longitude": "13.195104"
+    },
+    {
+        "clientKey": "30WKuaxyuOqnWm5hvA",
+        "restaurantName": "Tusen & 2",
+        "cuisine": "Burgare",
+        "city": "Malm\u00f6",
+        "latitude": "55.596664",
+        "longitude": "13.009582"
+    },
+    {
+        "clientKey": "v6fP4uyCfAiokBSkcN",
+        "restaurantName": "Vin & Tapasbaren",
+        "cuisine": "Spanskt",
+        "city": "Lund",
+        "latitude": "55.701466",
+        "longitude": "13.199184"
+    },
+    {
+        "clientKey": "1zgC5qivXNWdjXNfhi",
+        "restaurantName": "Mumbai Restaurang & Bar",
+        "cuisine": "Indisk",
+        "city": "Malm\u00f6",
+        "latitude": "55.598843",
+        "longitude": "12.982174"
+    },
+    {
+        "clientKey": "V4YXBQvVi15bBcLFPF",
+        "restaurantName": "Raw Food House",
+        "cuisine": "Rawfood",
+        "city": "Malm\u00f6",
+        "latitude": "55.595016",
+        "longitude": "13.004694"
+    },
+    {
+        "clientKey": "RGJ9jLRvVi7HxJLLaf",
+        "restaurantName": "Mando Steakhouse",
+        "cuisine": "Amerikanskt",
+        "city": "Malm\u00f6",
+        "latitude": "55.604561",
+        "longitude": "13.000410"
+    },
+    {
+        "clientKey": "AqJHF2Qas8I5YiIENK",
+        "restaurantName": "Damaskus",
+        "cuisine": "Syriansk",
+        "city": "Malm\u00f6",
+        "latitude": "55.589378",
+        "longitude": "13.006952"
+    },
+    {
+        "clientKey": "ep8DVVoi77izmke9te",
+        "restaurantName": "Saiko",
+        "cuisine": "Sushi",
+        "city": "Malm\u00f6",
+        "latitude": "55.596962",
+        "longitude": "13.014272"
+    },
+    {
+        "clientKey": "5kT3F7z4W907WOnpGZ",
+        "restaurantName": "Ayam Dimashq",
+        "cuisine": "Syriskt",
+        "city": "Malm\u00f6",
+        "latitude": "55.607601",
+        "longitude": "13.017126"
+    },
+    {
+        "clientKey": "yuUfVKnZgwb8H2rNOH",
+        "restaurantName": "Sibylla",
+        "cuisine": "Streetfood",
+        "city": "Lund",
+        "latitude": "55.695915",
+        "longitude": "13.199359"
+    },
+    {
+        "clientKey": "coHBh5vaRYrKPtnfJR",
+        "restaurantName": "Lemongrass",
+        "cuisine": "Asiatiskt",
+        "city": "Malm\u00f6",
+        "latitude": "55.603611",
+        "longitude": "12.996443"
+    },
+    {
+        "clientKey": "90NbORtubS10ZyQ9gY",
+        "restaurantName": "Holy Greens Mood",
+        "cuisine": "Sallad",
+        "city": "Stockholm",
+        "latitude": "59.334377",
+        "longitude": "18.070744"
+    },
+    {
+        "clientKey": "o6VZaDzeDcKxmpGiMs",
+        "restaurantName": "Kin Long",
+        "cuisine": "Kinesiskt",
+        "city": "Malm\u00f6",
+        "latitude": "55.596416",
+        "longitude": "13.000904"
+    },
+    {
+        "clientKey": "T9HRjC1mmAnoT1ramT",
+        "restaurantName": "M\u00f6llan Curry",
+        "cuisine": "Indiskt",
+        "city": "Malm\u00f6",
+        "latitude": "55.591534",
+        "longitude": "13.009036"
+    },
+    {
+        "clientKey": "9DywS5PO7n6HmBkkAD",
+        "restaurantName": "Sachi Sushibar",
+        "cuisine": "Sushi",
+        "city": "Malm\u00f6",
+        "latitude": "55.607052",
+        "longitude": "13.018184"
+    },
+    {
+        "clientKey": "IlO0MEQ6fF28TfOC7x",
+        "restaurantName": "Aiko Sushi",
+        "cuisine": "Sushi",
+        "city": "Lund",
+        "latitude": "55.700089",
+        "longitude": "13.191320"
+    },
+    {
+        "clientKey": "QlEBXpkbWjjnZmrbtg",
+        "restaurantName": "Vibliotek",
+        "cuisine": "Spansk Tapas",
+        "city": "Malm\u00f6",
+        "latitude": "55.601486",
+        "longitude": "13.001829"
+    },
+    {
+        "clientKey": "RrpH3XASuMZtDabe8W",
+        "restaurantName": "Spoonery",
+        "cuisine": "Grytor",
+        "city": "Malm\u00f6",
+        "latitude": "55.597305",
+        "longitude": "12.978875"
+    },
+    {
+        "clientKey": "2c9WB7yP3bJDWvbQvC",
+        "restaurantName": "Lilla Vietnam",
+        "cuisine": "Vietnamesiskt",
+        "city": "Malm\u00f6",
+        "latitude": "55.589794",
+        "longitude": "13.008388"
+    },
+    {
+        "clientKey": "JmOjzexm3IL0IFX2YR",
+        "restaurantName": "Sushibaren",
+        "cuisine": "Sushi",
+        "city": "Malm\u00f6",
+        "latitude": "55.598347",
+        "longitude": "12.978047"
+    },
+    {
+        "clientKey": "SE6cP9l2sI11WdyTi0",
+        "restaurantName": "Mr Chen\u00b4s Wok",
+        "cuisine": "Asiatiskt",
+        "city": "Malm\u00f6",
+        "latitude": "55.569817",
+        "longitude": "13.058752"
+    },
+    {
+        "clientKey": "r4zjIPoTgBqtYtkHoM",
+        "restaurantName": "Tasty Spot",
+        "cuisine": "Indiskt",
+        "city": "Malm\u00f6",
+        "latitude": "55.591740",
+        "longitude": "13.018762"
+    },
+    {
+        "clientKey": "1CeuMnMTCnnEhuTpLZ",
+        "restaurantName": "V.E.S.P.A Gustav",
+        "cuisine": "Italienskt",
+        "city": "Malm\u00f6",
+        "latitude": "55.602226",
+        "longitude": "13.002130"
+    },
+    {
+        "clientKey": "HBpwQNuvxR47wOVj5L",
+        "restaurantName": "Thai Thai",
+        "cuisine": "Thai",
+        "city": "Malm\u00f6",
+        "latitude": "55.591061",
+        "longitude": "13.005403"
+    },
+    {
+        "clientKey": "uaXDGm86KFFArSYxoc",
+        "restaurantName": "Akropolis",
+        "cuisine": "Grekiskt",
+        "city": "Malm\u00f6",
+        "latitude": "55.597755",
+        "longitude": "12.999958"
+    },
+    {
+        "clientKey": "Vzlh108HBcKiBBvE1l",
+        "restaurantName": "Zen Thai By Dockan",
+        "cuisine": "Thai",
+        "city": "Malm\u00f6",
+        "latitude": "55.614258",
+        "longitude": "12.989117"
+    },
+    {
+        "clientKey": "i8EkPch8J5eEpOFoJ7",
+        "restaurantName": "Buenos Aires 72",
+        "cuisine": "Argentinskt",
+        "city": "Malm\u00f6",
+        "latitude": "55.592503",
+        "longitude": "13.008583"
+    },
+    {
+        "clientKey": "WOXcSCxaU3ca7YM4H8",
+        "restaurantName": "Nam Do",
+        "cuisine": "Vietnamesiskt",
+        "city": "Malm\u00f6",
+        "latitude": "55.604500",
+        "longitude": "12.997732"
+    },
+    {
+        "clientKey": "mLVQC82uLt0Yhua3hw",
+        "restaurantName": "Sibylla",
+        "cuisine": "Sibylla M\u00f6llev\u00e5ngstorget ",
+        "city": "Malm\u00f6",
+        "latitude": "55.591351",
+        "longitude": "13.007910"
+    },
+    {
+        "clientKey": "0x8RNjipiP73OO4Kru",
+        "restaurantName": "Restaurang India",
+        "cuisine": "Indiskt",
+        "city": "Malm\u00f6",
+        "latitude": "55.600304",
+        "longitude": "13.007349"
+    },
+    {
+        "clientKey": "Bg80mDXNSevzmtIfr0",
+        "restaurantName": "Max Torsplan",
+        "cuisine": "Hamburgare",
+        "city": "Stockholm",
+        "latitude": "59.346741",
+        "longitude": "18.032354"
+    },
+    {
+        "clientKey": "MexqnXM67LwPw4Uh8u",
+        "restaurantName": "Italiana",
+        "cuisine": "Italienskt",
+        "city": "Stockholm",
+        "latitude": "59.329514",
+        "longitude": "18.060635"
+    },
+    {
+        "clientKey": "ebN1sIQTjzCtkuBkxM",
+        "restaurantName": "Smakkultur",
+        "cuisine": "Streetfood",
+        "city": "Stockholm",
+        "latitude": "59.318745",
+        "longitude": "18.055500"
+    },
+    {
+        "clientKey": "UfE2nLfPTwSC2Jgwr2",
+        "restaurantName": "Pronto",
+        "cuisine": "Italienskt",
+        "city": "Stockholm",
+        "latitude": "59.349442",
+        "longitude": "18.049494"
+    },
+    {
+        "clientKey": "c1tVdFL1GZg6ui6lmb",
+        "restaurantName": "Hot Little India",
+        "cuisine": "Indiskt",
+        "city": "Stockholm",
+        "latitude": "59.342064",
+        "longitude": "18.057705"
+    },
+    {
+        "clientKey": "nIZISLGEAd6ZfYoXVk",
+        "restaurantName": "Taperian",
+        "cuisine": "Spansk Tapas",
+        "city": "Stockholm",
+        "latitude": "59.338615",
+        "longitude": "18.005026"
+    },
+    {
+        "clientKey": "CXJxK3w264clPaHcxA",
+        "restaurantName": "Perugina",
+        "cuisine": "Pizza",
+        "city": "Malm\u00f6",
+        "latitude": "55.592957",
+        "longitude": "13.019117"
+    },
+    {
+        "clientKey": "m3LVmbfUX5GFKQDnZU",
+        "restaurantName": "Just Salad",
+        "cuisine": "Lyxig sallad",
+        "city": "Stockholm",
+        "latitude": "59.336285",
+        "longitude": "18.062477"
+    },
+    {
+        "clientKey": "YRTqUxUQoD0KudgSqP",
+        "restaurantName": "Il Forno Da Pino",
+        "cuisine": "Italienskt",
+        "city": "Stockholm",
+        "latitude": "59.326874",
+        "longitude": "18.043760"
+    },
+    {
+        "clientKey": "QnDAVUbvFW1Wjjy4YW",
+        "restaurantName": "Kamala Sushi",
+        "cuisine": "Sushi",
+        "city": "Stockholm",
+        "latitude": "59.344341",
+        "longitude": "18.053034"
+    },
+    {
+        "clientKey": "KmkUHmbbg7HlhkyPHy",
+        "restaurantName": "Maxos",
+        "cuisine": "Hummus & Falafel",
+        "city": "Stockholm",
+        "latitude": "59.332214",
+        "longitude": "18.044790"
+    },
+    {
+        "clientKey": "VK3Tg6PbTmUgQVD6dE",
+        "restaurantName": "Holy Greens Saluhall",
+        "cuisine": "Sallad",
+        "city": "Malm\u00f6",
+        "latitude": "55.607452",
+        "longitude": "12.991859"
+    },
+    {
+        "clientKey": "h8AUQQchBEElrrf60w",
+        "restaurantName": "Sapla",
+        "cuisine": "Indiskt",
+        "city": "Malm\u00f6",
+        "latitude": "55.592018",
+        "longitude": "13.008452"
+    },
+    {
+        "clientKey": "lFPc8PkmFkoWGLqk48",
+        "restaurantName": "Kontrast",
+        "cuisine": "Indiskt",
+        "city": "Malm\u00f6",
+        "latitude": "55.591999",
+        "longitude": "13.008070"
+    },
+    {
+        "clientKey": "HQVLHXlF68ROvTDL3E",
+        "restaurantName": "Charlie's Burgers Slottstaden",
+        "cuisine": "Kvalitets hamburgare ",
+        "city": "Malm\u00f6",
+        "latitude": "55.598049",
+        "longitude": "12.980468"
+    },
+    {
+        "clientKey": "dse7CBFLp6mUjjDJQI",
+        "restaurantName": "Mediterranean",
+        "cuisine": "Grekiskt",
+        "city": "Lund",
+        "latitude": "55.702930",
+        "longitude": "13.190361"
+    },
+    {
+        "clientKey": "Os4yoh9oBByTYiSi14",
+        "restaurantName": "Doc Piazza",
+        "cuisine": "Italienskt",
+        "city": "Malm\u00f6",
+        "latitude": "55.614323",
+        "longitude": "12.989610"
+    },
+    {
+        "clientKey": "wPMbnPsAi9oDwzJaGe",
+        "restaurantName": "\u00c4t Gr\u00f6nt",
+        "cuisine": "Asiatisk inspirerad salladsbar",
+        "city": "Malm\u00f6",
+        "latitude": "55.599133",
+        "longitude": "13.000352"
+    },
+    {
+        "clientKey": "6HkNoDWo4jeK2WJT6M",
+        "restaurantName": "Hongkist",
+        "cuisine": "Asiatiskt",
+        "city": "Stockholm",
+        "latitude": "59.337826",
+        "longitude": "18.077801"
+    },
+    {
+        "clientKey": "SVXGj22BXR4V1ou5qy",
+        "restaurantName": "Rydbergs",
+        "cuisine": "Barmat",
+        "city": "Stockholm",
+        "latitude": "59.336082",
+        "longitude": "18.059374"
+    },
+    {
+        "clientKey": "CdnIOGRoCdgPbKB4kE",
+        "restaurantName": "Poms mackor",
+        "cuisine": "Mackor",
+        "city": "Malm\u00f6",
+        "latitude": "55.607452",
+        "longitude": "12.991859"
+    },
+    {
+        "clientKey": "T7IfeWtkEejtNHeGgj",
+        "restaurantName": "D\u00f6ner Kebab Gustav",
+        "cuisine": "Kebab",
+        "city": "Malm\u00f6",
+        "latitude": "55.602512",
+        "longitude": "13.001744"
+    },
+    {
+        "clientKey": "bOHlKYFpG2tUgfRSVn",
+        "restaurantName": "D\u00f6ner Kebab Triangeln",
+        "cuisine": "Kebab",
+        "city": "Malm\u00f6",
+        "latitude": "55.594654",
+        "longitude": "13.001717"
+    },
+    {
+        "clientKey": "76TlezR7vbauYSJULs",
+        "restaurantName": "Indian Express 2",
+        "cuisine": "Indiskt",
+        "city": "Malm\u00f6",
+        "latitude": "55.592083",
+        "longitude": "13.007531"
+    },
+    {
+        "clientKey": "GSjqPwKjBPkqfItlXl",
+        "restaurantName": "Ayutthaya",
+        "cuisine": "Thail\u00e4ndskt",
+        "city": "Malm\u00f6",
+        "latitude": "55.597073",
+        "longitude": "13.009488"
+    },
+    {
+        "clientKey": "XgDQXFyHGbymEd689N",
+        "restaurantName": "Ikiru Sushi",
+        "cuisine": "Sushi",
+        "city": "Stockholm",
+        "latitude": "59.336018",
+        "longitude": "18.012011"
+    },
+    {
+        "clientKey": "UtSooKKBo2xT1itxQ6",
+        "restaurantName": "Full Moon Wok",
+        "cuisine": "Genuine Thai",
+        "city": "Stockholm",
+        "latitude": "59.342106",
+        "longitude": "18.049252"
+    },
+    {
+        "clientKey": "vLInCt0sb5hUlXbJAB",
+        "restaurantName": "Panda Asian",
+        "cuisine": "Asiatisk fusion",
+        "city": "Stockholm",
+        "latitude": "59.329784",
+        "longitude": "18.060383"
+    },
+    {
+        "clientKey": "BltT4vAvjEYP0gwfXV",
+        "restaurantName": "Zola",
+        "cuisine": "Pizza",
+        "city": "Malm\u00f6",
+        "latitude": "55.553417",
+        "longitude": "12.995892"
+    },
+    {
+        "clientKey": "Mp39URBm6yeL9znicr",
+        "restaurantName": "Sweeet",
+        "cuisine": "Candy",
+        "city": "Lund",
+        "latitude": "55.700901",
+        "longitude": "13.195189"
+    },
+    {
+        "clientKey": "aoewIDRHTUMk1bcAjY",
+        "restaurantName": "Sinji",
+        "cuisine": "Kinesiskt",
+        "city": "Lund",
+        "latitude": "55.706718",
+        "longitude": "13.189871"
+    },
+    {
+        "clientKey": "uuuq1l40ixIMmpLOzu",
+        "restaurantName": "Coffeehouse by George",
+        "cuisine": "Internationellt",
+        "city": "Stockholm",
+        "latitude": "59.342491",
+        "longitude": "18.057478"
+    },
+    {
+        "clientKey": "CnMFMiuTAatFsHaw1J",
+        "restaurantName": "Texas Longhorn",
+        "cuisine": "Steakhouse",
+        "city": "Stockholm",
+        "latitude": "59.343639",
+        "longitude": "18.047737"
+    },
+    {
+        "clientKey": "tS0kXIeBlu2UTvg5PT",
+        "restaurantName": "Mezefabriken \u00d6stermalmstorg",
+        "cuisine": "Meze",
+        "city": "Stockholm",
+        "latitude": "59.336311",
+        "longitude": "18.078848"
+    },
+    {
+        "clientKey": "ucGg6QKJVLS3Z0jAn8",
+        "restaurantName": "Mae Thai Fridhemsplan",
+        "cuisine": "Thai",
+        "city": "Stockholm",
+        "latitude": "59.332390",
+        "longitude": "18.030926"
+    },
+    {
+        "clientKey": "Elm61Rg4mdbeiV5mHR",
+        "restaurantName": "Mae Thai G\u00f6tgatan",
+        "cuisine": "Thai",
+        "city": "Stockholm",
+        "latitude": "59.309525",
+        "longitude": "18.076105"
+    },
+    {
+        "clientKey": "sM0cgaWGofB0sh7f4H",
+        "restaurantName": "Mae Thai Odengatan",
+        "cuisine": "Thai",
+        "city": "Stockholm",
+        "latitude": "59.344994",
+        "longitude": "18.060144"
+    },
+    {
+        "clientKey": "JIsPUaJG3MGQvFJyfH",
+        "restaurantName": "Tatung",
+        "cuisine": "Asiatiskt",
+        "city": "Lund",
+        "latitude": "55.704330",
+        "longitude": "13.188464"
+    },
+    {
+        "clientKey": "KipBEKsFLDudvLOYzC",
+        "restaurantName": "Mama Ye's",
+        "cuisine": "Asian",
+        "city": "Stockholm",
+        "latitude": "59.335758",
+        "longitude": "18.066654"
+    },
+    {
+        "clientKey": "hZrf6ofdgdnJcyQUtg",
+        "restaurantName": "Okinawa Sushi",
+        "cuisine": "Sushi",
+        "city": "G\u00f6teborg",
+        "latitude": "57.721058",
+        "longitude": "11.944550"
+    },
+    {
+        "clientKey": "JkErj02jYXOOVZikWP",
+        "restaurantName": "Ceviche",
+        "cuisine": "Peruanskt",
+        "city": "G\u00f6teborg",
+        "latitude": "57.699375",
+        "longitude": "11.905754"
+    },
+    {
+        "clientKey": "P5TRE7JCBQzHTirsr6",
+        "restaurantName": "Greens for you",
+        "cuisine": "H\u00e4lsokost",
+        "city": "G\u00f6teborg",
+        "latitude": "57.721058",
+        "longitude": "11.944552"
+    },
+    {
+        "clientKey": "z73W0WoyyKxj0V7LZy",
+        "restaurantName": "Frasses",
+        "cuisine": "Burgare",
+        "city": "Stockholm",
+        "latitude": "59.343479",
+        "longitude": "18.052471"
+    },
+    {
+        "clientKey": "HTrHStHDx55JPTKnYh",
+        "restaurantName": "Burgers & Beer Odenplan",
+        "cuisine": "Burgare",
+        "city": "Stockholm",
+        "latitude": "59.344257",
+        "longitude": "18.057175"
+    },
+    {
+        "clientKey": "qfactBKXA4XwLuDprZ",
+        "restaurantName": "Kobe Sushi Bar",
+        "cuisine": "Sushi",
+        "city": "G\u00f6teborg",
+        "latitude": "57.704529",
+        "longitude": "11.957718"
+    },
+    {
+        "clientKey": "zBpFDbUxo2BIKWX40U",
+        "restaurantName": "TomToms Burritos Prinsgatan",
+        "cuisine": "Mexikanskt",
+        "city": "G\u00f6teborg",
+        "latitude": "57.696346",
+        "longitude": "11.949056"
+    },
+    {
+        "clientKey": "6uvswj4egSWUK1Gxxy",
+        "restaurantName": "TomToms Burritos Odinsplatsen",
+        "cuisine": "Mexikanskt",
+        "city": "G\u00f6teborg",
+        "latitude": "57.709427",
+        "longitude": "11.985551"
+    },
+    {
+        "clientKey": "ycuEWc4dwbgTdr71IN",
+        "restaurantName": "The Grill",
+        "cuisine": "Hamburgare & Persiskt",
+        "city": "G\u00f6teborg",
+        "latitude": "57.721058",
+        "longitude": "11.944550"
+    },
+    {
+        "clientKey": "2Z2azZiKBkyphL5cG2",
+        "restaurantName": "Holy Greens Regeringsg.",
+        "cuisine": "Sallad",
+        "city": "Stockholm",
+        "latitude": "59.331699",
+        "longitude": "18.068830"
+    },
+    {
+        "clientKey": "qOAKOMExjm1vV3jxT3",
+        "restaurantName": "Surf Shack Limhamnsv",
+        "cuisine": "Burgare",
+        "city": "Malm\u00f6",
+        "latitude": "55.604092",
+        "longitude": "12.979231"
+    },
+    {
+        "clientKey": "SzFqjlObPp5faeMxaS",
+        "restaurantName": "Vig\u00e5rda",
+        "cuisine": "Hamburgare",
+        "city": "G\u00f6teborg",
+        "latitude": "57.699318",
+        "longitude": "11.976034"
+    },
+    {
+        "clientKey": "DY7zGdeVDGFy7fLLAn",
+        "restaurantName": "Pita Hisingen",
+        "cuisine": "H\u00e4lsokost",
+        "city": "G\u00f6teborg",
+        "latitude": "57.721951",
+        "longitude": "11.944926"
+    },
+    {
+        "clientKey": "Xjdlr8jFuoqMGChfuZ",
+        "restaurantName": "Indian Lounge",
+        "cuisine": "Indiskt",
+        "city": "Malm\u00f6",
+        "latitude": "55.598335",
+        "longitude": "12.995796"
+    },
+    {
+        "clientKey": "Qba373Cuv0PA5YS65D",
+        "restaurantName": "Algarve",
+        "cuisine": "Pizza och vegansk pizza",
+        "city": "Malm\u00f6",
+        "latitude": "55.609276",
+        "longitude": "13.040303"
+    },
+    {
+        "clientKey": "1dE24sJkc38YuXaUkX",
+        "restaurantName": "Fengsson Dumplings",
+        "cuisine": "Dumplings",
+        "city": "Lund",
+        "latitude": "55.705490",
+        "longitude": "13.190544"
+    },
+    {
+        "clientKey": "x5KcmKG9ZMQ2yMhvo6",
+        "restaurantName": "Bistro Amerique",
+        "cuisine": "Grill",
+        "city": "G\u00f6teborg",
+        "latitude": "57.699764",
+        "longitude": "11.939151"
+    },
+    {
+        "clientKey": "GU0HmaNGvHe8iIatI3",
+        "restaurantName": "Bombay Bistro",
+        "cuisine": "Indiskt",
+        "city": "G\u00f6teborg",
+        "latitude": "57.708424",
+        "longitude": "11.937694"
+    },
+    {
+        "clientKey": "vneAfJiuxwgXGM7CVF",
+        "restaurantName": "Bombay J\u00e4rntorget",
+        "cuisine": "Indiskt",
+        "city": "G\u00f6teborg",
+        "latitude": "57.699394",
+        "longitude": "11.951482"
+    },
+    {
+        "clientKey": "aXc9yY7NmiFkQfAfs6",
+        "restaurantName": "Danilo",
+        "cuisine": "Italienskt, Amerikanskt & Asiatiskt",
+        "city": "G\u00f6teborg",
+        "latitude": "57.702171",
+        "longitude": "11.985862"
+    },
+    {
+        "clientKey": "UgAIm8v2woLr7z7DOW",
+        "restaurantName": "400 Grader",
+        "cuisine": "Italienskt",
+        "city": "Malm\u00f6",
+        "latitude": "55.593678",
+        "longitude": "13.006155"
+    },
+    {
+        "clientKey": "CtKq9wGKjtXYDRnrE8",
+        "restaurantName": "Salladsfabriken",
+        "cuisine": "Sallad & Panini",
+        "city": "Lund",
+        "latitude": "55.710674",
+        "longitude": "13.182433"
+    },
+    {
+        "clientKey": "hhMRcUura3NdZY9bWO",
+        "restaurantName": "Indian Palace",
+        "cuisine": "Indiskt",
+        "city": "Malm\u00f6",
+        "latitude": "55.607765",
+        "longitude": "13.005042"
+    },
+    {
+        "clientKey": "3x0zvmpk45YkTAUcno",
+        "restaurantName": "Mamas and Tapas",
+        "cuisine": "Spansk Tapas",
+        "city": "Stockholm",
+        "latitude": "59.329475",
+        "longitude": "18.043261"
+    },
+    {
+        "clientKey": "MpdDBScAjuVQnOtgZ3",
+        "restaurantName": "Reload Sergels",
+        "cuisine": "H\u00e4lsokost",
+        "city": "Stockholm",
+        "latitude": "59.333996",
+        "longitude": "18.063143"
+    },
+    {
+        "clientKey": "nunJb3SDejswkooRft",
+        "restaurantName": "Ganesha",
+        "cuisine": "Indiskt",
+        "city": "Malm\u00f6",
+        "latitude": "55.592602",
+        "longitude": "13.005593"
+    },
+    {
+        "clientKey": "HcuhfF0BpDGOJoTqB9",
+        "restaurantName": "Le Colis\u00e9",
+        "cuisine": "Franskinspirerad mat",
+        "city": "Malm\u00f6",
+        "latitude": "55.598423",
+        "longitude": "12.980851"
+    },
+    {
+        "clientKey": "p1WwXSVNveVjOEPYsN",
+        "restaurantName": "Meno Male Kungsholmen",
+        "cuisine": "Vedugnspizza",
+        "city": "Stockholm",
+        "latitude": "59.328808",
+        "longitude": "18.045246"
+    },
+    {
+        "clientKey": "qgwXTBZaQx2dOQLFwL",
+        "restaurantName": "Meno Male Vasastan",
+        "cuisine": "Vedugnspizza",
+        "city": "Stockholm",
+        "latitude": "59.346535",
+        "longitude": "18.059412"
+    },
+    {
+        "clientKey": "D1k8JW1dbzjRyng7nQ",
+        "restaurantName": "Reload Sveav\u00e4gen",
+        "cuisine": "H\u00e4lsokost",
+        "city": "Stockholm",
+        "latitude": "59.340214",
+        "longitude": "18.059460"
+    },
+    {
+        "clientKey": "V4vuErLW2aVL26cbvU",
+        "restaurantName": "Sweeet",
+        "cuisine": "Candy",
+        "city": "Malm\u00f6",
+        "latitude": "55.596798",
+        "longitude": "12.983215"
+    },
+    {
+        "clientKey": "Rn2QCGiYfFitUGIMZ8",
+        "restaurantName": "Max Hamngatan",
+        "cuisine": "Hamburgare",
+        "city": "Stockholm",
+        "latitude": "59.332668",
+        "longitude": "18.072126"
+    },
+    {
+        "clientKey": "6MokZh8qQYjXyTXOPb",
+        "restaurantName": "Max Vasagatan",
+        "cuisine": "Hamburgare",
+        "city": "Stockholm",
+        "latitude": "59.332333",
+        "longitude": "18.057428"
+    },
+    {
+        "clientKey": "KEfuwIGrrpjDTFtOEF",
+        "restaurantName": "Nikos Gyros",
+        "cuisine": "Gyros",
+        "city": "Malm\u00f6",
+        "latitude": "55.607616",
+        "longitude": "13.007352"
+    },
+    {
+        "clientKey": "VWqwD2RADSDTorYCK9",
+        "restaurantName": "Restaurang Kina",
+        "cuisine": "Kinesiskt",
+        "city": "Malm\u00f6",
+        "latitude": "55.607033",
+        "longitude": "13.021116"
+    },
+    {
+        "clientKey": "jsVxGhQByIjI52jfF3",
+        "restaurantName": "Indian Haweli",
+        "cuisine": "Indiskt",
+        "city": "Malm\u00f6",
+        "latitude": "55.591957",
+        "longitude": "13.006109"
+    },
+    {
+        "clientKey": "SHzFtFJE53azHevQiz",
+        "restaurantName": "Max Ullevi",
+        "cuisine": "Hamburgare",
+        "city": "G\u00f6teborg",
+        "latitude": "57.706676",
+        "longitude": "11.979361"
+    },
+    {
+        "clientKey": "1LHBZqOh3vlH120p4Z",
+        "restaurantName": "Max Torpavallen",
+        "cuisine": "Hamburgare",
+        "city": "G\u00f6teborg",
+        "latitude": "57.724312",
+        "longitude": "12.029420"
+    },
+    {
+        "clientKey": "7QvcywgWU1pazhS69W",
+        "restaurantName": "Salads And Smoothies V\u00e4stra Hamnen",
+        "cuisine": "Sallad",
+        "city": "Malm\u00f6",
+        "latitude": "55.612026",
+        "longitude": "12.980367"
+    },
+    {
+        "clientKey": "CH7iHgTGy3OAyvk7Wd",
+        "restaurantName": "KRUBB Burgers",
+        "cuisine": "Burgare",
+        "city": "Stockholm",
+        "latitude": "59.333248",
+        "longitude": "18.043760"
+    },
+    {
+        "clientKey": "sJLa3qJeG9hxHEg5gv",
+        "restaurantName": "Brewdog",
+        "cuisine": "Burgare & Korv",
+        "city": "Malm\u00f6",
+        "latitude": "55.604763",
+        "longitude": "13.004947"
+    },
+    {
+        "clientKey": "VxyM8dRuEusiAeb6QI",
+        "restaurantName": "John Bull",
+        "cuisine": "Pub",
+        "city": "Lund",
+        "latitude": "55.704212",
+        "longitude": "13.188867"
+    },
+    {
+        "clientKey": "HclmwHtpLat2Uv2RQf",
+        "restaurantName": "O' Mamma Mia ",
+        "cuisine": "Pizza & Vegan",
+        "city": "Stockholm",
+        "latitude": "59.339302",
+        "longitude": "18.048990"
+    },
+    {
+        "clientKey": "9mTGYX5cBaKpm6zhl9",
+        "restaurantName": "Khatoon",
+        "cuisine": "Persiskt",
+        "city": "Lund",
+        "latitude": "55.700642",
+        "longitude": "13.194341"
+    },
+    {
+        "clientKey": "RMMqEdg3ytJv22Jnnz",
+        "restaurantName": "Restaurang Tehran",
+        "cuisine": "Persiskt",
+        "city": "Malm\u00f6",
+        "latitude": "55.590363",
+        "longitude": "13.012428"
+    },
+    {
+        "clientKey": "06jFzDcA9umNzboifx",
+        "restaurantName": "Subway Botulfsplatsen",
+        "cuisine": "Subs",
+        "city": "Lund",
+        "latitude": "55.702164",
+        "longitude": "13.194805"
+    },
+    {
+        "clientKey": "XyLS8cTLnA2IFF1gUu",
+        "restaurantName": "Thai Wok Stugan",
+        "cuisine": "Thai",
+        "city": "Stockholm",
+        "latitude": "59.341896",
+        "longitude": "18.064779"
+    },
+    {
+        "clientKey": "XrsX1154UUi7rC7pOj",
+        "restaurantName": "Subway V\u00e4stra Hamnen",
+        "cuisine": "Subs",
+        "city": "Malm\u00f6",
+        "latitude": "55.612026",
+        "longitude": "12.980367"
+    },
+    {
+        "clientKey": "eySn5rKQiZhqQHk3AY",
+        "restaurantName": "Lai Thai",
+        "cuisine": "Thai",
+        "city": "G\u00f6teborg",
+        "latitude": "57.728714",
+        "longitude": "12.010347"
+    },
+    {
+        "clientKey": "KYDP28ntzXdtBXF4o2",
+        "restaurantName": "Sandys G\u00f6tgatan",
+        "cuisine": "Sallad",
+        "city": "Stockholm",
+        "latitude": "59.317863",
+        "longitude": "18.071325"
+    },
+    {
+        "clientKey": "JPDGa0Tgb10wCjZA7H",
+        "restaurantName": "Tajmahal ",
+        "cuisine": "Indiskt",
+        "city": "G\u00f6teborg",
+        "latitude": "57.699493",
+        "longitude": "11.946740"
+    },
+    {
+        "clientKey": "SsWc7y8X30WMH2FcHr",
+        "restaurantName": "Thai Corner",
+        "cuisine": "Thai",
+        "city": "Lund",
+        "latitude": "55.703407",
+        "longitude": "13.187759"
+    },
+    {
+        "clientKey": "Louuj0peiGDOEMGF3M",
+        "restaurantName": "India Garden",
+        "cuisine": "Indiskt",
+        "city": "G\u00f6teborg",
+        "latitude": "57.699848",
+        "longitude": "11.949460"
+    },
+    {
+        "clientKey": "BYWd8TLUi7gCb54hKW",
+        "restaurantName": "O\u00b4Learys Avenyn",
+        "cuisine": "Amerikanskt",
+        "city": "G\u00f6teborg",
+        "latitude": "57.701096",
+        "longitude": "11.973469"
+    },
+    {
+        "clientKey": "gktliiLwSALGyacNtP",
+        "restaurantName": "Bulls N Barrels",
+        "cuisine": "Steakhouse",
+        "city": "Malm\u00f6",
+        "latitude": "55.592968",
+        "longitude": "13.006626"
+    },
+    {
+        "clientKey": "DRaZSOh12bqgUSJU9A",
+        "restaurantName": "Sandys Stureplan",
+        "cuisine": "Sallad",
+        "city": "Stockholm",
+        "latitude": "59.335728",
+        "longitude": "18.073425"
+    },
+    {
+        "clientKey": "5jApYww3Tbja5grZUP",
+        "restaurantName": "SESAM",
+        "cuisine": "Pizzeria",
+        "city": "Lund",
+        "latitude": "55.701378",
+        "longitude": "13.197596"
+    },
+    {
+        "clientKey": "4n2c0ezGndZGzzsJQm",
+        "restaurantName": "Beirut House",
+        "cuisine": "Libanesiskt",
+        "city": "G\u00f6teborg",
+        "latitude": "57.692680",
+        "longitude": "11.955064"
+    },
+    {
+        "clientKey": "eofJTT34LMEIvAuf6Q",
+        "restaurantName": "Grekiska Kolgrillsbaren Sankt G\u00f6ran",
+        "cuisine": "Grekiskt",
+        "city": "Stockholm",
+        "latitude": "59.334175",
+        "longitude": "18.024618"
+    },
+    {
+        "clientKey": "7g5nQEeNlqUP9gQk86",
+        "restaurantName": "Sandys H\u00f6torgshallen",
+        "cuisine": "Lunch",
+        "city": "Stockholm",
+        "latitude": "59.334091",
+        "longitude": "18.062782"
+    },
+    {
+        "clientKey": "EPauoxZXWYBffz69mm",
+        "restaurantName": "Gyrella",
+        "cuisine": "Grekiskt",
+        "city": "Stockholm",
+        "latitude": "59.308804",
+        "longitude": "18.076336"
+    },
+    {
+        "clientKey": "iKcnnm98BEhexrqIf0",
+        "restaurantName": "Dim Mak Raw Bar",
+        "cuisine": "Sushi",
+        "city": "Stockholm",
+        "latitude": "59.347492",
+        "longitude": "18.060440"
+    },
+    {
+        "clientKey": "4606kdrP2NJwJQBBAV",
+        "restaurantName": "Mogge Sushi",
+        "cuisine": "Sushi",
+        "city": "Stockholm",
+        "latitude": "59.324921",
+        "longitude": "18.067020"
+    },
+    {
+        "clientKey": "UViTb5FggLnk9KQwqe",
+        "restaurantName": "Spice of India",
+        "cuisine": "Indiskt",
+        "city": "Stockholm",
+        "latitude": "59.343090",
+        "longitude": "18.077995"
+    },
+    {
+        "clientKey": "fmDZGZuIvGBZG3Qasw",
+        "restaurantName": "En Kopp Zen",
+        "cuisine": "Asiatiskt",
+        "city": "Stockholm",
+        "latitude": "59.349327",
+        "longitude": "18.058771"
+    },
+    {
+        "clientKey": "RiSLyznsN1JRT69F9I",
+        "restaurantName": "Gunnars Pizzeria",
+        "cuisine": "Pizza",
+        "city": "Stockholm",
+        "latitude": "59.348679",
+        "longitude": "18.048723"
+    },
+    {
+        "clientKey": "Nr0srZtHvQRRzviju6",
+        "restaurantName": "Subway S:t G\u00f6ran",
+        "cuisine": "Subs",
+        "city": "Stockholm",
+        "latitude": "59.334820",
+        "longitude": "18.021921"
+    },
+    {
+        "clientKey": "yp4SS1SqUYRh49NWP9",
+        "restaurantName": "Wrap World",
+        "cuisine": "Wraps",
+        "city": "Stockholm",
+        "latitude": "59.334797",
+        "longitude": "18.064989"
+    },
+    {
+        "clientKey": "TPV3MS4Kx8ep6yKwYG",
+        "restaurantName": "Spoonery St Knut",
+        "cuisine": "Grytor",
+        "city": "Malm\u00f6",
+        "latitude": "55.596962",
+        "longitude": "13.014272"
+    },
+    {
+        "clientKey": "CE8kO86oNKnHJkLQQg",
+        "restaurantName": "Indian Curry House",
+        "cuisine": "Indiskt",
+        "city": "Stockholm",
+        "latitude": "59.329506",
+        "longitude": "18.043633"
+    },
+    {
+        "clientKey": "qIH399znEYqWF5glzK",
+        "restaurantName": "Pasta Gudfadern",
+        "cuisine": "Italienskt",
+        "city": "Stockholm",
+        "latitude": "59.314690",
+        "longitude": "18.070707"
+    },
+    {
+        "clientKey": "Ld5Gy7zKCAQPPiPo8w",
+        "restaurantName": "Taco Bar Stureplan",
+        "cuisine": "Texmex",
+        "city": "Stockholm",
+        "latitude": "59.336060",
+        "longitude": "18.071356"
+    },
+    {
+        "clientKey": "Pz9ufC4nrVeZLfj2yt",
+        "restaurantName": "Nha Trang",
+        "cuisine": "Vietnamesiskt",
+        "city": "Stockholm",
+        "latitude": "59.334999",
+        "longitude": "18.029291"
+    },
+    {
+        "clientKey": "UmiCL7Pyzasf3Cbcm1",
+        "restaurantName": "Shiraz",
+        "cuisine": "Persiskt",
+        "city": "Malm\u00f6",
+        "latitude": "55.591812",
+        "longitude": "13.008655"
+    },
+    {
+        "clientKey": "bstvjhAqf4BknXvBUQ",
+        "restaurantName": "Bagels & Salads ",
+        "cuisine": "Salad",
+        "city": "Malm\u00f6",
+        "latitude": "55.598827",
+        "longitude": "12.983371"
+    },
+    {
+        "clientKey": "4fGLFluzJCMSNAQlxU",
+        "restaurantName": "Acai & S\u00e5nt",
+        "cuisine": "Acai & Sallad",
+        "city": "Malm\u00f6",
+        "latitude": "55.612862",
+        "longitude": "12.974608"
+    },
+    {
+        "clientKey": "5eXYOc3qiyh4403DqN",
+        "restaurantName": "Thai-Tofu",
+        "cuisine": "Thai",
+        "city": "Malm\u00f6",
+        "latitude": "55.591476",
+        "longitude": "13.005684"
+    },
+    {
+        "clientKey": "PDWcFMEyVZ8lTKPi7F",
+        "restaurantName": "Royal Pizza",
+        "cuisine": "Pizza",
+        "city": "G\u00f6teborg",
+        "latitude": "57.698254",
+        "longitude": "11.974727"
+    },
+    {
+        "clientKey": "j956wiBxwoah4K2ui6",
+        "restaurantName": "G\u00f6teburgare",
+        "cuisine": "Hamburgare",
+        "city": "G\u00f6teborg",
+        "latitude": "57.698780",
+        "longitude": "11.945373"
+    },
+    {
+        "clientKey": "76Hkf7QL5HW1Tl49ZT",
+        "restaurantName": "Burgersson Skanstorget",
+        "cuisine": "Hamburgare",
+        "city": "G\u00f6teborg",
+        "latitude": "57.695606",
+        "longitude": "11.959160"
+    },
+    {
+        "clientKey": "hnVzEtcJ29iQiIsZzu",
+        "restaurantName": "G\u00f6teburgare Vegan",
+        "cuisine": "Veganburgare",
+        "city": "G\u00f6teborg",
+        "latitude": "57.699341",
+        "longitude": "11.949818"
+    },
+    {
+        "clientKey": "e1mNyF7RtzHrGlc1C0",
+        "restaurantName": "Samui Thai Kitchen",
+        "cuisine": "Thai",
+        "city": "G\u00f6teborg",
+        "latitude": "57.699871",
+        "longitude": "11.980431"
+    },
+    {
+        "clientKey": "T2krz3QO51gkgVfQ7n",
+        "restaurantName": "Burgersson Friggagatan",
+        "cuisine": "Hamburgare",
+        "city": "G\u00f6teborg",
+        "latitude": "57.710991",
+        "longitude": "11.987153"
+    },
+    {
+        "clientKey": "TTiTCOW5uUwRjIfef8",
+        "restaurantName": "Salad & Sushi V\u00e4rnhem",
+        "cuisine": "Sallad & Sushi",
+        "city": "Malm\u00f6",
+        "latitude": "55.606098",
+        "longitude": "13.023170"
+    },
+    {
+        "clientKey": "WSi7fsDzuui8n5SKZc",
+        "restaurantName": "Salad & Sushi V\u00e4stra Hamnen",
+        "cuisine": "Sallad & Sushi",
+        "city": "Malm\u00f6",
+        "latitude": "55.612091",
+        "longitude": "12.980550"
+    },
+    {
+        "clientKey": "y0YBeFhbKqpfHMEOSp",
+        "restaurantName": "Fratellis Pizza",
+        "cuisine": "Pizza",
+        "city": "Malm\u00f6",
+        "latitude": "55.606174",
+        "longitude": "13.009718"
+    },
+    {
+        "clientKey": "WIivEeb3ZWKbFyuKjb",
+        "restaurantName": "O'Learys",
+        "cuisine": "Amerikanskt",
+        "city": "Stockholm",
+        "latitude": "59.322372",
+        "longitude": "18.073107"
+    },
+    {
+        "clientKey": "1w5zUZkWsSSF3Ujptd",
+        "restaurantName": "Peas & Honey Public House",
+        "cuisine": "Gastropub",
+        "city": "Malm\u00f6",
+        "latitude": "55.604027",
+        "longitude": "13.006519"
+    },
+    {
+        "clientKey": "XD66YyDXatcCs0sqqm",
+        "restaurantName": "KFC Lockarp",
+        "cuisine": "Amerikanskt",
+        "city": "Malm\u00f6",
+        "latitude": "55.548786",
+        "longitude": "13.033515"
+    },
+    {
+        "clientKey": "EYibdxRyvDMkpcx6ot",
+        "restaurantName": "Salsa & Salsa",
+        "cuisine": "Mexikanskt",
+        "city": "G\u00f6teborg",
+        "latitude": "57.698948",
+        "longitude": "11.963254"
+    },
+    {
+        "clientKey": "G6xAEvfPZdtHNvzlHl",
+        "restaurantName": "Taco Bar",
+        "cuisine": "Mexikanskt",
+        "city": "G\u00f6teborg",
+        "latitude": "57.705666",
+        "longitude": "11.970869"
+    },
+    {
+        "clientKey": "udjEyY2qpPBHX3ssKD",
+        "restaurantName": "Mezefabriken MOOD",
+        "cuisine": "Meze",
+        "city": "Stockholm",
+        "latitude": "59.334373",
+        "longitude": "18.068169"
+    },
+    {
+        "clientKey": "lAWILyJ5Qmd2mcrkid",
+        "restaurantName": "Sugoi",
+        "cuisine": "Japanskt",
+        "city": "Lund",
+        "latitude": "55.710304",
+        "longitude": "13.183307"
+    },
+    {
+        "clientKey": "OtqbOC9kpssHs4Io4d",
+        "restaurantName": "Esplanad Pizza",
+        "cuisine": "Pizza",
+        "city": "Stockholm",
+        "latitude": "59.339977",
+        "longitude": "18.077442"
+    },
+    {
+        "clientKey": "0yRSreUurLt2ampo78",
+        "restaurantName": "Slottsstadens Restaurang",
+        "cuisine": "Pizza",
+        "city": "Malm\u00f6",
+        "latitude": "55.596798",
+        "longitude": "12.983215"
+    },
+    {
+        "clientKey": "BdYgZMmxgVs8d71Ma6",
+        "restaurantName": "Asian Corner",
+        "cuisine": "Asiatiskt",
+        "city": "G\u00f6teborg",
+        "latitude": "57.710461",
+        "longitude": "11.986695"
+    },
+    {
+        "clientKey": "GcXyC6lhLKbe2s1TWJ",
+        "restaurantName": "Saiko Express",
+        "cuisine": "Sushi i sk\u00e5l",
+        "city": "Malm\u00f6",
+        "latitude": "55.599823",
+        "longitude": "12.974027"
+    },
+    {
+        "clientKey": "RipSKgf1066f5YqBII",
+        "restaurantName": "Mr Shou",
+        "cuisine": "Asiatiskt",
+        "city": "G\u00f6teborg",
+        "latitude": "57.708485",
+        "longitude": "11.973330"
+    },
+    {
+        "clientKey": "iMMkZ55qgMjKSvLVxs",
+        "restaurantName": "Fuori Di Pizza",
+        "cuisine": "Italienskt",
+        "city": "Stockholm",
+        "latitude": "59.342419",
+        "longitude": "18.039501"
+    },
+    {
+        "clientKey": "ZHHjxYEUG1binXa7qo",
+        "restaurantName": "Great India",
+        "cuisine": "Indiskt",
+        "city": "Stockholm",
+        "latitude": "59.335075",
+        "longitude": "18.028791"
+    },
+    {
+        "clientKey": "tzQc3GqInB27fW1jlU",
+        "restaurantName": "Asahi",
+        "cuisine": "Sushi & Varmr\u00e4tter",
+        "city": "Stockholm",
+        "latitude": "59.335011",
+        "longitude": "18.027431"
+    },
+    {
+        "clientKey": "T1oKhyNwDqgHmp57gI",
+        "restaurantName": "Buco Nero",
+        "cuisine": "Italienskt",
+        "city": "Stockholm",
+        "latitude": "59.344719",
+        "longitude": "18.061731"
+    },
+    {
+        "clientKey": "cfDrIoCXPVIliwfQ7N",
+        "restaurantName": "Nero K25",
+        "cuisine": "Italienskt",
+        "city": "Stockholm",
+        "latitude": "59.335762",
+        "longitude": "18.067341"
+    },
+    {
+        "clientKey": "OEaFVOhrkkPyiXBNxE",
+        "restaurantName": "Nero Hornstull",
+        "cuisine": "Italienskt",
+        "city": "Stockholm",
+        "latitude": "59.315563",
+        "longitude": "18.033360"
+    },
+    {
+        "clientKey": "OsaNervJXEl6nf0G9I",
+        "restaurantName": "KFC Stortorget",
+        "cuisine": "Amerikanskt",
+        "city": "Malm\u00f6",
+        "latitude": "55.605850",
+        "longitude": "13.001458"
+    },
+    {
+        "clientKey": "cpE7Isgdjfp6BFzdol",
+        "restaurantName": "KFC",
+        "cuisine": "Amerikanskt",
+        "city": "G\u00f6teborg",
+        "latitude": "57.705151",
+        "longitude": "11.971558"
+    },
+    {
+        "clientKey": "QZ8I6m9TUkRst7SxBD",
+        "restaurantName": "BC Burgers",
+        "cuisine": "Burgare",
+        "city": "Stockholm",
+        "latitude": "59.312935",
+        "longitude": "18.082685"
+    },
+    {
+        "clientKey": "9jdtEXpW1SLIh0xUZK",
+        "restaurantName": "Thai Oriental Restaurant",
+        "cuisine": "Thai",
+        "city": "G\u00f6teborg",
+        "latitude": "57.702953",
+        "longitude": "11.961853"
+    },
+    {
+        "clientKey": "0GnBK0GFDiYoRXiSOO",
+        "restaurantName": "Taco Bar St Eriksplan",
+        "cuisine": "Texmex",
+        "city": "Stockholm",
+        "latitude": "59.339081",
+        "longitude": "18.038568"
+    },
+    {
+        "clientKey": "0UlEzJ29Yg1LojQOSM",
+        "restaurantName": "Subway Domkyrkan",
+        "cuisine": "Subs",
+        "city": "G\u00f6teborg",
+        "latitude": "57.703785",
+        "longitude": "11.963652"
+    },
+    {
+        "clientKey": "6MU4N9ewrfper5E94W",
+        "restaurantName": "Jola Thai",
+        "cuisine": "Thai",
+        "city": "G\u00f6teborg",
+        "latitude": "57.698856",
+        "longitude": "11.947250"
+    },
+    {
+        "clientKey": "n6oJW3XYzsDOuOgJWH",
+        "restaurantName": "The Plant",
+        "cuisine": "Vegan Burgars",
+        "city": "Stockholm",
+        "latitude": "59.308102",
+        "longitude": "18.074015"
+    },
+    {
+        "clientKey": "xQzb7r7bH7HN2ajq0Y",
+        "restaurantName": "H\u00e4ng Bar",
+        "cuisine": "Pizza",
+        "city": "Malm\u00f6",
+        "latitude": "55.592319",
+        "longitude": "13.008481"
+    },
+    {
+        "clientKey": "xYRdsVlLk990A39UCs",
+        "restaurantName": "Indian Curry Hut",
+        "cuisine": "Indiskt",
+        "city": "Malm\u00f6",
+        "latitude": "55.592327",
+        "longitude": "13.007643"
+    },
+    {
+        "clientKey": "uvgg0FyrLJDoM8PH4w",
+        "restaurantName": "Masala Zone",
+        "cuisine": "Indiskt",
+        "city": "G\u00f6teborg",
+        "latitude": "57.714996",
+        "longitude": "11.927020"
+    },
+    {
+        "clientKey": "PQMSMdYkfkfbROJwLC",
+        "restaurantName": "Thai Food Special",
+        "cuisine": "Thai",
+        "city": "Stockholm",
+        "latitude": "59.314980",
+        "longitude": "18.070498"
+    },
+    {
+        "clientKey": "xTrNktzd8wJUiYTZW8",
+        "restaurantName": "Sliders & Shakes",
+        "cuisine": "Burgare",
+        "city": "Malm\u00f6",
+        "latitude": "55.609081",
+        "longitude": "12.999880"
+    },
+    {
+        "clientKey": "t65zTBoXINcF81ygzJ",
+        "restaurantName": "Togogo",
+        "cuisine": "H\u00e4lsokost",
+        "city": "G\u00f6teborg",
+        "latitude": "57.709148",
+        "longitude": "11.968560"
+    },
+    {
+        "clientKey": "S2oDZBiDt45Z0HGgjk",
+        "restaurantName": "Avokado ",
+        "cuisine": "Superfood",
+        "city": "Malm\u00f6",
+        "latitude": "55.597961",
+        "longitude": "12.999067"
+    },
+    {
+        "clientKey": "hWGIpNO3556ppR4d3R",
+        "restaurantName": "Noodle Mama",
+        "cuisine": "Bowls & Salad",
+        "city": "Stockholm",
+        "latitude": "59.334801",
+        "longitude": "18.062971"
+    },
+    {
+        "clientKey": "PsIpNpOn6UuJrpFtRN",
+        "restaurantName": "Wrap Factory",
+        "cuisine": "H\u00e4lsosam snabbmat",
+        "city": "Malm\u00f6",
+        "latitude": "55.606312",
+        "longitude": "13.006452"
+    },
+    {
+        "clientKey": "IwQYUkkD7Rb1t2SSeW",
+        "restaurantName": "Bores Sveav\u00e4gen",
+        "cuisine": "Smashburgare",
+        "city": "Stockholm",
+        "latitude": "59.344543",
+        "longitude": "18.054693"
+    },
+    {
+        "clientKey": "gMs41jIM4cJJAXLqVk",
+        "restaurantName": "Urban Deli Sveav\u00e4gen",
+        "cuisine": "Husmanskost",
+        "city": "Stockholm",
+        "latitude": "59.336948",
+        "longitude": "18.062559"
+    },
+    {
+        "clientKey": "UVxEUy3pdVb9ZM0Cn4",
+        "restaurantName": "Restaurang Cataleya",
+        "cuisine": "Medelhavsmat",
+        "city": "Malm\u00f6",
+        "latitude": "55.598137",
+        "longitude": "12.996384"
+    },
+    {
+        "clientKey": "jXiu4PpBETbgQLUabJ",
+        "restaurantName": "Sushi Fuji",
+        "cuisine": "Sushi",
+        "city": "G\u00f6teborg",
+        "latitude": "57.695026",
+        "longitude": "11.987460"
+    },
+    {
+        "clientKey": "ynnu8lLN4hLYilgH3A",
+        "restaurantName": "Pazzi",
+        "cuisine": "Napolitansk pizza",
+        "city": "Stockholm",
+        "latitude": "59.310867",
+        "longitude": "18.078489"
+    },
+    {
+        "clientKey": "yCmeBaBOmgQgYZ8SGy",
+        "restaurantName": "Sushirullen",
+        "cuisine": "Sushirullar",
+        "city": "Stockholm",
+        "latitude": "59.334030",
+        "longitude": "18.032543"
+    },
+    {
+        "clientKey": "fqmxjz3PKhpk8gXpxZ",
+        "restaurantName": "Primo No. 1",
+        "cuisine": "Pizza",
+        "city": "Lund",
+        "latitude": "55.705921",
+        "longitude": "13.187992"
+    },
+    {
+        "clientKey": "srHQPDjcDcXC6sM3PA",
+        "restaurantName": "Redfellas",
+        "cuisine": "Sallad",
+        "city": "Lund",
+        "latitude": "55.703293",
+        "longitude": "13.190781"
+    },
+    {
+        "clientKey": "eJv8nFJRdSKjpMstVr",
+        "restaurantName": "Ariana Restaurang",
+        "cuisine": "Indiskt",
+        "city": "Malm\u00f6",
+        "latitude": "55.589424",
+        "longitude": "13.015196"
+    },
+    {
+        "clientKey": "YpJC6c6Cbr4y9jUI61",
+        "restaurantName": "Tabbouli",
+        "cuisine": "Libanesiskt",
+        "city": "Stockholm",
+        "latitude": "59.334053",
+        "longitude": "18.063084"
+    },
+    {
+        "clientKey": "36kFFGIznYSeB7wbni",
+        "restaurantName": "Erikslust Pizza & Pasta",
+        "cuisine": "Pizza & Pasta",
+        "city": "Malm\u00f6",
+        "latitude": "55.593765",
+        "longitude": "12.968452"
+    },
+    {
+        "clientKey": "IpDQSQG6qL3hScZlyP",
+        "restaurantName": "Matskeppet Foodtruck",
+        "cuisine": "Burgare",
+        "city": "Lund",
+        "latitude": "55.711830",
+        "longitude": "13.198492"
+    },
+    {
+        "clientKey": "qoQOVihx9KqtrL5a6i",
+        "restaurantName": "The Elephant",
+        "cuisine": "Indiskt",
+        "city": "G\u00f6teborg",
+        "latitude": "57.691841",
+        "longitude": "11.952775"
+    },
+    {
+        "clientKey": "HsURJA3K3S5xGRuccx",
+        "restaurantName": "YOKO Sushi",
+        "cuisine": "Sushi",
+        "city": "G\u00f6teborg",
+        "latitude": "57.687393",
+        "longitude": "11.982808"
+    },
+    {
+        "clientKey": "7QNftpu7eh6BJdI1Ho",
+        "restaurantName": "Mangal Mobilia",
+        "cuisine": "Grill",
+        "city": "Malm\u00f6",
+        "latitude": "55.580154",
+        "longitude": "13.003670"
+    },
+    {
+        "clientKey": "wz3MH2dUx1wMMnbdbP",
+        "restaurantName": "Mangal BBQ Nova",
+        "cuisine": "Grill",
+        "city": "Lund",
+        "latitude": "55.713921",
+        "longitude": "13.159908"
+    },
+    {
+        "clientKey": "BWK7LVnoOtYXcFHMFa",
+        "restaurantName": "Sushi Express",
+        "cuisine": "Sushi",
+        "city": "Lund",
+        "latitude": "55.702686",
+        "longitude": "13.194508"
+    },
+    {
+        "clientKey": "47X6VYjbFiBsD758fo",
+        "restaurantName": "Glorias ",
+        "cuisine": "Restaurang & Sportsbar",
+        "city": "Lund",
+        "latitude": "55.706303",
+        "longitude": "13.190815"
+    },
+    {
+        "clientKey": "6TlXLKl09ckzAjRLgo",
+        "restaurantName": "New Delhi",
+        "cuisine": "Indiskt",
+        "city": "G\u00f6teborg",
+        "latitude": "57.697872",
+        "longitude": "11.963504"
+    },
+    {
+        "clientKey": "MytmSd5oTPbqUEEmKy",
+        "restaurantName": "Sm\u00f6rrebr\u00f6d by FreDa",
+        "cuisine": "Sm\u00f6rrebr\u00f6d",
+        "city": "Malm\u00f6",
+        "latitude": "55.608673",
+        "longitude": "13.000134"
+    },
+    {
+        "clientKey": "yB7VrwXeA4Ndxakzax",
+        "restaurantName": "Restaurant Shanghai",
+        "cuisine": "Kinesiskt",
+        "city": "Malm\u00f6",
+        "latitude": "55.606880",
+        "longitude": "13.018939"
+    },
+    {
+        "clientKey": "SXS8hykOaDSvCtdCtS",
+        "restaurantName": "K\u00f6k & Bar Saluhallen",
+        "cuisine": "Svenskt",
+        "city": "G\u00f6teborg",
+        "latitude": "57.703445",
+        "longitude": "11.967980"
+    },
+    {
+        "clientKey": "qKrtcBIK36e2uw0bme",
+        "restaurantName": "Charlie\u2019s Burgers M\u00f6llan",
+        "cuisine": "Kvalitets Burgare",
+        "city": "Malm\u00f6",
+        "latitude": "55.589748",
+        "longitude": "13.008607"
+    },
+    {
+        "clientKey": "dcgulpIWfqNCKS9odJ",
+        "restaurantName": "Pasha Grill",
+        "cuisine": "Turkiskt",
+        "city": "G\u00f6teborg",
+        "latitude": "57.691547",
+        "longitude": "11.952746"
+    },
+    {
+        "clientKey": "utRQcOpa5fNk084KDU",
+        "restaurantName": "Restaurang Sandra",
+        "cuisine": "Kurdiskt",
+        "city": "Lund",
+        "latitude": "55.698280",
+        "longitude": "13.190017"
+    },
+    {
+        "clientKey": "ZaBqJVIFSiGGP0UW1G",
+        "restaurantName": "Mangal Sv\u00e5gertorp",
+        "cuisine": "Oriental BBQ",
+        "city": "Malm\u00f6",
+        "latitude": "55.553417",
+        "longitude": "12.995892"
+    },
+    {
+        "clientKey": "X3WTfaSXyjih6kxJJO",
+        "restaurantName": "Tildis Salladsbar & Catering",
+        "cuisine": "Sallad",
+        "city": "G\u00f6teborg",
+        "latitude": "57.697483",
+        "longitude": "11.963561"
+    },
+    {
+        "clientKey": "tEYFUObQd8f2JjjA6W",
+        "restaurantName": "Oishi Sushibar",
+        "cuisine": "Sushi",
+        "city": "Stockholm",
+        "latitude": "59.325661",
+        "longitude": "18.074699"
+    },
+    {
+        "clientKey": "VZ4U6kT2Zng6zglteZ",
+        "restaurantName": "Bistro Arsenalen",
+        "cuisine": "Lunch",
+        "city": "Stockholm",
+        "latitude": "59.331596",
+        "longitude": "18.075033"
+    },
+    {
+        "clientKey": "keSRB8iBdlJjXrbx32",
+        "restaurantName": "Wiggo Wraps Stureplan",
+        "cuisine": "Wraps",
+        "city": "Stockholm",
+        "latitude": "59.335201",
+        "longitude": "18.074953"
+    },
+    {
+        "clientKey": "VPIKpy1v0hOCQOYOAb",
+        "restaurantName": "Wiggo Wraps Sk\u00e5negatan",
+        "cuisine": "Wraps",
+        "city": "Stockholm",
+        "latitude": "59.311840",
+        "longitude": "18.075069"
+    },
+    {
+        "clientKey": "ftmYeMwmMJxuiDTu1i",
+        "restaurantName": "Wiggo Wraps Hornstull",
+        "cuisine": "Wraps",
+        "city": "Stockholm",
+        "latitude": "59.316509",
+        "longitude": "18.034121"
+    },
+    {
+        "clientKey": "v5F0SYhEjSekXu4WgE",
+        "restaurantName": "Wiggo Wraps Fridhemsplan",
+        "cuisine": "Wraps",
+        "city": "Stockholm",
+        "latitude": "59.334225",
+        "longitude": "18.033491"
+    },
+    {
+        "clientKey": "XeBDktcje6wsfNh2kc",
+        "restaurantName": "Laos Thai G\u00f6teborg",
+        "cuisine": "Thai",
+        "city": "G\u00f6teborg",
+        "latitude": "57.722332",
+        "longitude": "11.942045"
+    },
+    {
+        "clientKey": "e1E3QP1rFfTqIdQ099",
+        "restaurantName": "Baskien Pintxos",
+        "cuisine": "Tapas",
+        "city": "Lund",
+        "latitude": "55.701244",
+        "longitude": "13.197198"
+    },
+    {
+        "clientKey": "QxI3uskAwqVf82LZaj",
+        "restaurantName": "Icha Mochi",
+        "cuisine": "Sushi",
+        "city": "Lund",
+        "latitude": "55.705009",
+        "longitude": "13.187877"
+    },
+    {
+        "clientKey": "fxr3DlVlmNaK8xkCOK",
+        "restaurantName": "Svea Pizzeria",
+        "cuisine": "Italiensk",
+        "city": "Stockholm",
+        "latitude": "59.309517",
+        "longitude": "18.083960"
+    },
+    {
+        "clientKey": "2Yo0FPiYmg7uEHEm2o",
+        "restaurantName": "Fredos",
+        "cuisine": "Pizza",
+        "city": "Malm\u00f6",
+        "latitude": "55.607330",
+        "longitude": "13.021342"
+    },
+    {
+        "clientKey": "f21Eqy9SGRtGuTFrXI",
+        "restaurantName": "Grand Deli",
+        "cuisine": "Matbutik",
+        "city": "Lund",
+        "latitude": "55.704025",
+        "longitude": "13.189566"
+    },
+    {
+        "clientKey": "NKiEwQSbsXA06w0csV",
+        "restaurantName": "Sushi Yama Stenpiren",
+        "cuisine": "Sushi",
+        "city": "G\u00f6teborg",
+        "latitude": "57.706226",
+        "longitude": "11.957126"
+    },
+    {
+        "clientKey": "3BEBuTJKapfALSTBUD",
+        "restaurantName": "Modomio",
+        "cuisine": "Pizza ",
+        "city": "Malm\u00f6",
+        "latitude": "55.604042",
+        "longitude": "13.006663"
+    },
+    {
+        "clientKey": "xCiv2v4weLuSNGQb87",
+        "restaurantName": "NFC Fried Chicken",
+        "cuisine": "Amerikanskt",
+        "city": "G\u00f6teborg",
+        "latitude": "57.710323",
+        "longitude": "11.972321"
+    },
+    {
+        "clientKey": "k6iIPJ30mXidGZ0T4x",
+        "restaurantName": "Jacobs take away",
+        "cuisine": "Sm\u00f6rrebr\u00f6d",
+        "city": "Stockholm",
+        "latitude": "59.331429",
+        "longitude": "18.058117"
+    },
+    {
+        "clientKey": "Z0iRhLUqFbw10NMQ8M",
+        "restaurantName": "Max H\u00f6torget",
+        "cuisine": "Hamburgare",
+        "city": "Stockholm",
+        "latitude": "59.335461",
+        "longitude": "18.062048"
+    },
+    {
+        "clientKey": "1ckXGgUYGfiRcPYdLm",
+        "restaurantName": "Beets",
+        "cuisine": "Sallad",
+        "city": "G\u00f6teborg",
+        "latitude": "57.706215",
+        "longitude": "11.970959"
+    },
+    {
+        "clientKey": "uz1fMNsrxbwr7OkhJl",
+        "restaurantName": "The Taco Shop",
+        "cuisine": "Mexikanskt",
+        "city": "Malm\u00f6",
+        "latitude": "55.608101",
+        "longitude": "13.012189"
+    },
+    {
+        "clientKey": "shS2L07b6oaGWmo6JV",
+        "restaurantName": "Pizzabutiken Bruno Franco",
+        "cuisine": "Pizza",
+        "city": "G\u00f6teborg",
+        "latitude": "57.691856",
+        "longitude": "11.951287"
+    },
+    {
+        "clientKey": "LHLkX4RS2uRA3GjiNN",
+        "restaurantName": "Tugg Burgers",
+        "cuisine": "Burgare",
+        "city": "Malm\u00f6",
+        "latitude": "55.601475",
+        "longitude": "13.001474"
+    },
+    {
+        "clientKey": "SJ4zLrzxOBeO6WXavc",
+        "restaurantName": "Wiggo Wraps T-Centralen",
+        "cuisine": "Sallad & Wraps",
+        "city": "Stockholm",
+        "latitude": "59.329426",
+        "longitude": "18.059198"
+    },
+    {
+        "clientKey": "k1GgskgRCWQO7IUKe8",
+        "restaurantName": "New York Pizza ",
+        "cuisine": "Pizza",
+        "city": "Lund",
+        "latitude": "55.698071",
+        "longitude": "13.190119"
+    },
+    {
+        "clientKey": "HEwQLaozQOanmOVVqq",
+        "restaurantName": "\u00d6ster96 sushi",
+        "cuisine": "Japansk",
+        "city": "Stockholm",
+        "latitude": "59.338772",
+        "longitude": "18.088465"
+    },
+    {
+        "clientKey": "yKgC6Bg5v3xxokD1D6",
+        "restaurantName": "Arzoo Indian",
+        "cuisine": "Indiskt",
+        "city": "G\u00f6teborg",
+        "latitude": "57.717102",
+        "longitude": "11.928894"
+    },
+    {
+        "clientKey": "Pp5nACBhMjk1gYMueQ",
+        "restaurantName": "Bellas Corner",
+        "cuisine": "Lunchrestaurang",
+        "city": "Malm\u00f6",
+        "latitude": "55.607552",
+        "longitude": "12.991500"
+    },
+    {
+        "clientKey": "huazMOmr3OCgs8SoLe",
+        "restaurantName": "Pizzakv\u00e4ll",
+        "cuisine": "Pizza",
+        "city": "Malm\u00f6",
+        "latitude": "55.595486",
+        "longitude": "12.984310"
+    },
+    {
+        "clientKey": "Qta1gKC5ePOU1Y25qu",
+        "restaurantName": "True Food",
+        "cuisine": "Vegan food",
+        "city": "Lund",
+        "latitude": "55.701572",
+        "longitude": "13.194769"
+    },
+    {
+        "clientKey": "Npoy9F9yu1D1ToOAU8",
+        "restaurantName": "The Raw Kitchen Malm\u00f6",
+        "cuisine": "Rawfood",
+        "city": "Malm\u00f6",
+        "latitude": "55.597332",
+        "longitude": "13.002270"
+    },
+    {
+        "clientKey": "mE3TieDRpJsV3mWG0p",
+        "restaurantName": "Flame On Curry",
+        "cuisine": "Indiskt",
+        "city": "Lund",
+        "latitude": "55.701328",
+        "longitude": "13.196007"
+    },
+    {
+        "clientKey": "LlJJT0gqRvTrmb2BeD",
+        "restaurantName": "Mini Kasai i Mood",
+        "cuisine": "Sushi",
+        "city": "Stockholm",
+        "latitude": "59.334377",
+        "longitude": "18.070744"
+    },
+    {
+        "clientKey": "NnhPFvWOXn22eGMGOV",
+        "restaurantName": "Kasai ",
+        "cuisine": "Japansk",
+        "city": "Malm\u00f6",
+        "latitude": "55.612244",
+        "longitude": "12.994955"
+    },
+    {
+        "clientKey": "Vi7i9YivFw7NEmFStI",
+        "restaurantName": "Premium Pizza",
+        "cuisine": "Pizza",
+        "city": "Stockholm",
+        "latitude": "59.305653",
+        "longitude": "18.112621"
+    },
+    {
+        "clientKey": "OZ5Kx9VrQIg0TBMwwi",
+        "restaurantName": "Shady Burgers",
+        "cuisine": "Burgare",
+        "city": "Lund",
+        "latitude": "55.702099",
+        "longitude": "13.196335"
+    },
+    {
+        "clientKey": "9eqZQ9pUnHU1SROTJB",
+        "restaurantName": "Pappagallo",
+        "cuisine": "Pizza",
+        "city": "Malm\u00f6",
+        "latitude": "55.596741",
+        "longitude": "12.987400"
+    },
+    {
+        "clientKey": "yLyWwjmGmxeq4PfWNG",
+        "restaurantName": "Hoppipolla Caf\u00e9",
+        "cuisine": "Sallad",
+        "city": "Lund",
+        "latitude": "55.702332",
+        "longitude": "13.196914"
+    },
+    {
+        "clientKey": "g8BBPoLwniXzvl4eec",
+        "restaurantName": "KFC",
+        "cuisine": "Amerikanskt",
+        "city": "Lund",
+        "latitude": "55.715942",
+        "longitude": "13.156915"
+    },
+    {
+        "clientKey": "TSqdolXR3kl5cj7ESq",
+        "restaurantName": "M.O.A.S",
+        "cuisine": "K\u00f6tt",
+        "city": "Stockholm",
+        "latitude": "59.344894",
+        "longitude": "18.061563"
+    },
+    {
+        "clientKey": "Dgl4t7F5XsZm8DEH0b",
+        "restaurantName": "Al Balam",
+        "cuisine": "Irakiskt",
+        "city": "Malm\u00f6",
+        "latitude": "55.576756",
+        "longitude": "13.025110"
+    },
+    {
+        "clientKey": "DZilwtapDakaPrusoY",
+        "restaurantName": "Malm\u00f6 City Pizzeria",
+        "cuisine": "Pizza",
+        "city": "Malm\u00f6",
+        "latitude": "55.600723",
+        "longitude": "13.002353"
+    },
+    {
+        "clientKey": "VOgM4BuCWu498rvnfE",
+        "restaurantName": "Erna\u00b4s Bistro",
+        "cuisine": "Indonesiskt",
+        "city": "Stockholm",
+        "latitude": "59.345879",
+        "longitude": "18.096060"
+    },
+    {
+        "clientKey": "LQl0Dc4mJsKuTUR3JV",
+        "restaurantName": "Vanadis Sushibar",
+        "cuisine": "Sushi",
+        "city": "Stockholm",
+        "latitude": "59.345242",
+        "longitude": "18.040318"
+    },
+    {
+        "clientKey": "3El2t36webLHb7YLBO",
+        "restaurantName": "Mr Lee",
+        "cuisine": "Asiatiskt",
+        "city": "G\u00f6teborg",
+        "latitude": "57.708599",
+        "longitude": "11.985248"
+    },
+    {
+        "clientKey": "6rpSa7yosE5AvXNzmL",
+        "restaurantName": "Mumbai dreams",
+        "cuisine": "Indisk",
+        "city": "Stockholm",
+        "latitude": "59.338306",
+        "longitude": "18.007994"
+    },
+    {
+        "clientKey": "oR6Hc8okeG108sTBQE",
+        "restaurantName": "Cypern",
+        "cuisine": "Grekisk",
+        "city": "Stockholm",
+        "latitude": "59.347202",
+        "longitude": "18.065144"
+    },
+    {
+        "clientKey": "rRPYSghQ14sDCyYL4m",
+        "restaurantName": "Tiean siam",
+        "cuisine": "Thai",
+        "city": "Stockholm",
+        "latitude": "59.347511",
+        "longitude": "18.106253"
+    },
+    {
+        "clientKey": "YY32WWb4Xq6mwH7C6o",
+        "restaurantName": "OMNI",
+        "cuisine": "italiensk",
+        "city": "Stockholm",
+        "latitude": "59.346947",
+        "longitude": "18.032871"
+    },
+    {
+        "clientKey": "CZevcpDGyiBrdZZaeS",
+        "restaurantName": "USA Today Restaurang",
+        "cuisine": "Hamburgare",
+        "city": "G\u00f6teborg",
+        "latitude": "57.740582",
+        "longitude": "12.100868"
+    },
+    {
+        "clientKey": "0iHcqOtAgZtBBSXURR",
+        "restaurantName": "Cosmos Pizzeria",
+        "cuisine": "Pizza",
+        "city": "Malm\u00f6",
+        "latitude": "55.598511",
+        "longitude": "12.996746"
+    },
+    {
+        "clientKey": "R4YqnbJl1Lsal1mDQu",
+        "restaurantName": "Bag\u00eatt",
+        "cuisine": "Baguetter",
+        "city": "Malm\u00f6",
+        "latitude": "55.597397",
+        "longitude": "13.002314"
+    },
+    {
+        "clientKey": "yIxquvKGvVxw7ZCJ8a",
+        "restaurantName": "Cando Restaurant",
+        "cuisine": "Persiskt",
+        "city": "G\u00f6teborg",
+        "latitude": "57.687508",
+        "longitude": "11.991510"
+    },
+    {
+        "clientKey": "6BhEgdBkTr6OpYawVo",
+        "restaurantName": "Spice Kitchen ",
+        "cuisine": "Thai",
+        "city": "G\u00f6teborg",
+        "latitude": "57.694901",
+        "longitude": "11.987033"
+    },
+    {
+        "clientKey": "X526kDuRSpMr2FexxQ",
+        "restaurantName": "Platini Ristorante",
+        "cuisine": "Italiensk",
+        "city": "Stockholm",
+        "latitude": "59.341053",
+        "longitude": "18.091738"
+    },
+    {
+        "clientKey": "eAZK3wjW1F0CiRQYv1",
+        "restaurantName": "Wagamama",
+        "cuisine": "Asiatiskt",
+        "city": "Stockholm",
+        "latitude": "59.329716",
+        "longitude": "18.055243"
+    },
+    {
+        "clientKey": "uNgvcW20vGSVfPBQ1a",
+        "restaurantName": "Freshii \u00d6stermalm",
+        "cuisine": "Sallad",
+        "city": "Stockholm",
+        "latitude": "59.335140",
+        "longitude": "18.074045"
+    },
+    {
+        "clientKey": "pu9knIxtoDUT7VtNq8",
+        "restaurantName": "Sibiriens soppk\u00f6k",
+        "cuisine": "Soppa",
+        "city": "Stockholm",
+        "latitude": "59.347553",
+        "longitude": "18.058619"
+    },
+    {
+        "clientKey": "ds7i2DSrTHg9Ntr4tC",
+        "restaurantName": "Best of india",
+        "cuisine": "Indiskt",
+        "city": "Stockholm",
+        "latitude": "59.348492",
+        "longitude": "18.061802"
+    },
+    {
+        "clientKey": "9OvrCWhwBzlWrLbFvp",
+        "restaurantName": "Samrat of India",
+        "cuisine": "Indiskt",
+        "city": "Stockholm",
+        "latitude": "59.311687",
+        "longitude": "18.079386"
+    },
+    {
+        "clientKey": "8arIIOyRTNs7IoZOnp",
+        "restaurantName": "Indian Masala J\u00e4rntorget",
+        "cuisine": "Indiskt",
+        "city": "G\u00f6teborg",
+        "latitude": "57.699959",
+        "longitude": "11.951197"
+    },
+    {
+        "clientKey": "bEg8Z3RoEcwnrHa1YC",
+        "restaurantName": "Le Bistro",
+        "cuisine": "Franskt  \/ Svenskt",
+        "city": "Stockholm",
+        "latitude": "59.334660",
+        "longitude": "18.032330"
+    },
+    {
+        "clientKey": "bNE36SMKVHbkHMTZ7e",
+        "restaurantName": "Beijing 8",
+        "cuisine": "Dumplings",
+        "city": "Stockholm",
+        "latitude": "59.335140",
+        "longitude": "18.074045"
+    },
+    {
+        "clientKey": "GcLOxjSUelkUX2fCUF",
+        "restaurantName": "Pizzeria Valentino",
+        "cuisine": "Pizza",
+        "city": "Lund",
+        "latitude": "55.707668",
+        "longitude": "13.182802"
+    },
+    {
+        "clientKey": "xBrhL9nNq7fNkUWzOs",
+        "restaurantName": "Linaz Kebab & Gyros",
+        "cuisine": "Grill",
+        "city": "Lund",
+        "latitude": "55.701359",
+        "longitude": "13.198132"
+    },
+    {
+        "clientKey": "ZmPa889nlo47oL6Q0p",
+        "restaurantName": "Grekiska Kolgrillsbaren R\u00e5dhuset",
+        "cuisine": "Grekiskt",
+        "city": "Stockholm",
+        "latitude": "59.331181",
+        "longitude": "18.045307"
+    },
+    {
+        "clientKey": "42dssxCdPhjGAC9CaW",
+        "restaurantName": "Pizzeria Teneriffa",
+        "cuisine": "Pizza",
+        "city": "Malm\u00f6",
+        "latitude": "55.597996",
+        "longitude": "12.975508"
+    },
+    {
+        "clientKey": "N0MdhpZc6P1FP4Cezu",
+        "restaurantName": "Le Croissant",
+        "cuisine": "Caf\u00e9",
+        "city": "Lund",
+        "latitude": "55.701439",
+        "longitude": "13.193320"
+    },
+    {
+        "clientKey": "qUn2NKkcAqf6wiZ9A5",
+        "restaurantName": "Uncle Lin's",
+        "cuisine": "Asiatiskt",
+        "city": "G\u00f6teborg",
+        "latitude": "57.695812",
+        "longitude": "11.951263"
+    },
+    {
+        "clientKey": "yAI51PqlA8btojBcPg",
+        "restaurantName": "ICA N\u00e4ra Lindeborg",
+        "cuisine": "Butik",
+        "city": "Malm\u00f6",
+        "latitude": "55.562267",
+        "longitude": "12.989753"
+    },
+    {
+        "clientKey": "gD1O4c2QJBYDIJFmqU",
+        "restaurantName": "Ninas Pizza",
+        "cuisine": "Pizza",
+        "city": "Stockholm",
+        "latitude": "59.329540",
+        "longitude": "18.050238"
+    },
+    {
+        "clientKey": "HgS5YcfXuj7eZSB4A1",
+        "restaurantName": "Ninas salladscafe",
+        "cuisine": "Sallad",
+        "city": "Stockholm",
+        "latitude": "59.329540",
+        "longitude": "18.050238"
+    },
+    {
+        "clientKey": "kxjvc8AjJM5GiWLdl9",
+        "restaurantName": "Freshii  PK-Huset",
+        "cuisine": "Sallad",
+        "city": "Stockholm",
+        "latitude": "59.333004",
+        "longitude": "18.071135"
+    },
+    {
+        "clientKey": "U1qbjxHRRhErbTtEEK",
+        "restaurantName": "Sibylla Bangatan",
+        "cuisine": "Streetfood",
+        "city": "Lund",
+        "latitude": "55.706165",
+        "longitude": "13.187108"
+    },
+    {
+        "clientKey": "XgjxQeMx4Y2HkxGVZQ",
+        "restaurantName": "Vietnamhaket",
+        "cuisine": "Vietnamesiskt",
+        "city": "G\u00f6teborg",
+        "latitude": "57.698139",
+        "longitude": "11.949979"
+    },
+    {
+        "clientKey": "C9GLkOUF9InSCJfrrg",
+        "restaurantName": "Pizzabakeren",
+        "cuisine": "Pizza ",
+        "city": "Lund",
+        "latitude": "55.720890",
+        "longitude": "13.200217"
+    },
+    {
+        "clientKey": "odEaLvps83M1Z5HvAu",
+        "restaurantName": "Vionna Kaffestugan",
+        "cuisine": "Hemlagat",
+        "city": "Stockholm",
+        "latitude": "59.345566",
+        "longitude": "18.036760"
+    },
+    {
+        "clientKey": "EMUPbgSXOPyzD3wnUk",
+        "restaurantName": "Kaf\u00e9 8586",
+        "cuisine": "Pizza",
+        "city": "G\u00f6teborg",
+        "latitude": "57.698257",
+        "longitude": "11.960565"
+    },
+    {
+        "clientKey": "9edPIP5r8qyKKSPqF8",
+        "restaurantName": "Tantawan Thai Kitchen",
+        "cuisine": "Thai",
+        "city": "G\u00f6teborg",
+        "latitude": "57.690094",
+        "longitude": "11.908514"
+    },
+    {
+        "clientKey": "hspcd7U7zYg93MbuB9",
+        "restaurantName": "East",
+        "cuisine": "Asiatisk fusion",
+        "city": "Stockholm",
+        "latitude": "59.335663",
+        "longitude": "18.072357"
+    },
+    {
+        "clientKey": "qYJuJrwtht9dRPTrig",
+        "restaurantName": "Tandoori Kitchen Kungsgatan",
+        "cuisine": "Indiskt",
+        "city": "G\u00f6teborg",
+        "latitude": "57.703911",
+        "longitude": "11.963329"
+    },
+    {
+        "clientKey": "MgBL9xk7OMeM3VkLOy",
+        "restaurantName": "Subway Fleminggatan",
+        "cuisine": "Subs",
+        "city": "Stockholm",
+        "latitude": "59.333649",
+        "longitude": "18.037891"
+    },
+    {
+        "clientKey": "U172OyS5ABgTFPjl7j",
+        "restaurantName": "Tandoori Kitchen Friggagatan",
+        "cuisine": "Indiskt",
+        "city": "G\u00f6teborg",
+        "latitude": "57.710911",
+        "longitude": "11.988118"
+    },
+    {
+        "clientKey": "8EFOmBGczxIBdQzGg2",
+        "restaurantName": "Ponton 28 Sushi",
+        "cuisine": "Sushi",
+        "city": "Stockholm",
+        "latitude": "59.329472",
+        "longitude": "18.030416"
+    },
+    {
+        "clientKey": "HKGbIGgf3XKeGlbxHh",
+        "restaurantName": "Sm\u00f6rg\u00e5st\u00e5rta by Waffles",
+        "cuisine": "Bakelse",
+        "city": "G\u00f6teborg",
+        "latitude": "57.699127",
+        "longitude": "11.969015"
+    },
+    {
+        "clientKey": "x2l1h4GBndyzcgGcKp",
+        "restaurantName": "Ponton 28 Bistro",
+        "cuisine": "Husmanskost",
+        "city": "Stockholm",
+        "latitude": "59.329472",
+        "longitude": "18.030416"
+    },
+    {
+        "clientKey": "31IJlKTRdFAIuaCB0y",
+        "restaurantName": "Chateau Beirut",
+        "cuisine": "Libanesiskt",
+        "city": "G\u00f6teborg",
+        "latitude": "57.698261",
+        "longitude": "11.931052"
+    },
+    {
+        "clientKey": "5u4V5V37U6fMLOct3f",
+        "restaurantName": "Piccola Italia",
+        "cuisine": "Italienskt",
+        "city": "G\u00f6teborg",
+        "latitude": "57.692734",
+        "longitude": "11.949852"
+    },
+    {
+        "clientKey": "T1PrtNYuoMMWlHSAUt",
+        "restaurantName": "Kvilles Pizzeria",
+        "cuisine": "Pizza",
+        "city": "G\u00f6teborg",
+        "latitude": "57.718716",
+        "longitude": "11.946604"
+    },
+    {
+        "clientKey": "LFteqAYMs2uTsE3yt0",
+        "restaurantName": "Restaurang Kathmandu",
+        "cuisine": "Nepalesiskt",
+        "city": "G\u00f6teborg",
+        "latitude": "57.693466",
+        "longitude": "11.954467"
+    },
+    {
+        "clientKey": "UUApJwlrQsoJEqxgik",
+        "restaurantName": "Trattoria Puccioni",
+        "cuisine": "Italienskt",
+        "city": "G\u00f6teborg",
+        "latitude": "57.722298",
+        "longitude": "11.941940"
+    },
+    {
+        "clientKey": "lGJIJ814GGvGt7BvIi",
+        "restaurantName": "Woki",
+        "cuisine": "Asiatiskt",
+        "city": "Malm\u00f6",
+        "latitude": "55.603973",
+        "longitude": "13.003292"
+    },
+    {
+        "clientKey": "ZCIY88zHCue6V4LyT0",
+        "restaurantName": "JP's Bar & Restaurant",
+        "cuisine": "Burgare",
+        "city": "Malm\u00f6",
+        "latitude": "55.593735",
+        "longitude": "12.984429"
+    },
+    {
+        "clientKey": "TPzAzqpCB3eZwAaqzm",
+        "restaurantName": "Bagels & Greens",
+        "cuisine": "Bagels",
+        "city": "Malm\u00f6",
+        "latitude": "55.590782",
+        "longitude": "13.005325"
+    },
+    {
+        "clientKey": "Wou5UjPXaSB0kurhwJ",
+        "restaurantName": "Simple Pleasures Caf\u00e9",
+        "cuisine": "Caf\u00e9",
+        "city": "Malm\u00f6",
+        "latitude": "55.606899",
+        "longitude": "12.997698"
+    },
+    {
+        "clientKey": "dLeUw53DbYer8Yvaum",
+        "restaurantName": "Green Kiss Caf\u00e9",
+        "cuisine": "Caf\u00e9",
+        "city": "Malm\u00f6",
+        "latitude": "55.595699",
+        "longitude": "13.000384"
+    },
+    {
+        "clientKey": "zYJwlZD235bN3ASbPb",
+        "restaurantName": "Orvars Korvar & Burgare",
+        "cuisine": "Streetfood",
+        "city": "Lund",
+        "latitude": "55.720779",
+        "longitude": "13.199944"
+    },
+    {
+        "clientKey": "Z6cU9DZ9lHe6IjbleX",
+        "restaurantName": "Caf\u00e9 Fridhem",
+        "cuisine": "Kaf\u00e9",
+        "city": "Malm\u00f6",
+        "latitude": "55.598274",
+        "longitude": "12.971939"
+    },
+    {
+        "clientKey": "8hhvJdLDqJ391PBEW6",
+        "restaurantName": "Golsar Pizzeria",
+        "cuisine": "Pizza",
+        "city": "G\u00f6teborg",
+        "latitude": "57.717045",
+        "longitude": "11.895670"
+    },
+    {
+        "clientKey": "IMDtVJyvzvstAqAPGA",
+        "restaurantName": "Indian Bistro",
+        "cuisine": "Indiskt",
+        "city": "G\u00f6teborg",
+        "latitude": "57.708088",
+        "longitude": "11.966840"
+    },
+    {
+        "clientKey": "vN3eZoQv0KltMfHDky",
+        "restaurantName": "Pizzeria Gambero",
+        "cuisine": "Pizza",
+        "city": "G\u00f6teborg",
+        "latitude": "57.694740",
+        "longitude": "11.957547"
+    },
+    {
+        "clientKey": "kh9zsfDfr3fngdC3HM",
+        "restaurantName": "Meno Male \u00d6stermalm",
+        "cuisine": "Pizza",
+        "city": "Stockholm",
+        "latitude": "59.337933",
+        "longitude": "18.081255"
+    },
+    {
+        "clientKey": "4v9sJSfnGqX7kKRiqy",
+        "restaurantName": "Andrum vegetarisk restaurang",
+        "cuisine": "Vegetariskt",
+        "city": "G\u00f6teborg",
+        "latitude": "57.708088",
+        "longitude": "11.966840"
+    },
+    {
+        "clientKey": "wbE6Q2gvDcQs7umoPt",
+        "restaurantName": "Pizzeria Kryddan",
+        "cuisine": "Pizza",
+        "city": "Lund",
+        "latitude": "55.697441",
+        "longitude": "13.195051"
+    },
+    {
+        "clientKey": "q8TmBPNflzc6CjvoOR",
+        "restaurantName": "Sugoi Malm\u00f6",
+        "cuisine": "Japanskt",
+        "city": "Malm\u00f6",
+        "latitude": "55.601025",
+        "longitude": "13.022898"
+    },
+    {
+        "clientKey": "pb6S9lQLlOXm0dJaWW",
+        "restaurantName": "H\u00f6gkvarteret",
+        "cuisine": "Husmanskost",
+        "city": "Stockholm",
+        "latitude": "59.338070",
+        "longitude": "18.100845"
+    },
+    {
+        "clientKey": "oWNrcnYqcePI9KQ3Js",
+        "restaurantName": "Sushi Tiden",
+        "cuisine": "Sushi",
+        "city": "G\u00f6teborg",
+        "latitude": "57.723251",
+        "longitude": "11.947135"
+    },
+    {
+        "clientKey": "dkNwvPE0H5JRPRt9Od",
+        "restaurantName": "4-Gott \u00d6stra Hamngatan ",
+        "cuisine": "Godis",
+        "city": "G\u00f6teborg",
+        "latitude": "57.709316",
+        "longitude": "11.966394"
+    },
+    {
+        "clientKey": "Puc6tZosPY9skP8EAC",
+        "restaurantName": "Victoria Pizzeria",
+        "cuisine": "Pizza",
+        "city": "G\u00f6teborg",
+        "latitude": "57.736065",
+        "longitude": "12.047171"
+    },
+    {
+        "clientKey": "nWny4a3NO93AwHxQK9",
+        "restaurantName": "Alexandras Grekiska Soppk\u00f6k",
+        "cuisine": "Grekiskt",
+        "city": "G\u00f6teborg",
+        "latitude": "57.703369",
+        "longitude": "11.967720"
+    },
+    {
+        "clientKey": "rpXPqegwVOvjOnPCto",
+        "restaurantName": "Pizza p\u00e5 St\u00e4ket",
+        "cuisine": "Pizza",
+        "city": "Lund",
+        "latitude": "55.701664",
+        "longitude": "13.192554"
+    },
+    {
+        "clientKey": "9ZeXZq83zhq9GboE6S",
+        "restaurantName": "Ban Thai Steak House",
+        "cuisine": "Thai",
+        "city": "Malm\u00f6",
+        "latitude": "55.604301",
+        "longitude": "13.028299"
+    },
+    {
+        "clientKey": "9tiLPEIG13CTjv6T3P",
+        "restaurantName": "New York Pizzeria",
+        "cuisine": "Pizzeria",
+        "city": "Malm\u00f6",
+        "latitude": "55.598652",
+        "longitude": "13.006785"
+    },
+    {
+        "clientKey": "KLFntrk5xbXGpcGVbh",
+        "restaurantName": "NUR Restaurang",
+        "cuisine": "Turkiskt",
+        "city": "Malm\u00f6",
+        "latitude": "55.592705",
+        "longitude": "13.007827"
+    },
+    {
+        "clientKey": "syLM4ZvNnLT4xBywqB",
+        "restaurantName": "Restaurang 4:an",
+        "cuisine": "Hamburgare",
+        "city": "Malm\u00f6",
+        "latitude": "55.605221",
+        "longitude": "12.998006"
+    },
+    {
+        "clientKey": "leEhh0peLP93TSGhPL",
+        "restaurantName": "The Masala Box",
+        "cuisine": "Indiskt",
+        "city": "Malm\u00f6",
+        "latitude": "55.589806",
+        "longitude": "13.009131"
+    },
+    {
+        "clientKey": "9E5Ga6d0A80Ac7ElkS",
+        "restaurantName": "Tamnack Thai",
+        "cuisine": "Thai",
+        "city": "Malm\u00f6",
+        "latitude": "55.596153",
+        "longitude": "13.003328"
+    },
+    {
+        "clientKey": "C8s0kOR21Qzy6CyLFz",
+        "restaurantName": "Town Pizza",
+        "cuisine": "Pizzeria",
+        "city": "Malm\u00f6",
+        "latitude": "55.595654",
+        "longitude": "13.009307"
+    },
+    {
+        "clientKey": "gcV2Y8ODrf8lcOC8qA",
+        "restaurantName": "South Indian",
+        "cuisine": "Indiskt",
+        "city": "Malm\u00f6",
+        "latitude": "55.592525",
+        "longitude": "13.005732"
+    },
+    {
+        "clientKey": "q0NVzSPsN7vnAGarqE",
+        "restaurantName": "ICA N\u00e4ra S\u00f6derlivs",
+        "cuisine": "Butik",
+        "city": "Lund",
+        "latitude": "55.697620",
+        "longitude": "13.190380"
+    },
+    {
+        "clientKey": "NLtOaW7yaqVpzM1D01",
+        "restaurantName": "Anhur pizzeria",
+        "cuisine": "Pizzeria",
+        "city": "Lund",
+        "latitude": "55.691620",
+        "longitude": "13.178148"
+    },
+    {
+        "clientKey": "FCDsVGLZfvGbtRPLN1",
+        "restaurantName": "M\u00e5rtens Kebab House",
+        "cuisine": "Pizza",
+        "city": "Lund",
+        "latitude": "55.702106",
+        "longitude": "13.196596"
+    },
+    {
+        "clientKey": "LmE2gWQ6wh0FFcfsXM",
+        "restaurantName": "Wrapped Burrito Bar Skanstorget",
+        "cuisine": "Mexikanskt",
+        "city": "G\u00f6teborg",
+        "latitude": "57.695332",
+        "longitude": "11.957358"
+    },
+    {
+        "clientKey": "5JzmamkQxhnRCZzXrZ",
+        "restaurantName": "Wrapped Burrito Bar S\u00f6dra V\u00e4gen",
+        "cuisine": "Mexikanskt",
+        "city": "G\u00f6teborg",
+        "latitude": "57.697044",
+        "longitude": "11.984686"
+    },
+    {
+        "clientKey": "sM7Bq7MltfPRCgDWro",
+        "restaurantName": "Wrapped Burrito Bar V\u00e4stra Hamngatan",
+        "cuisine": "Mexikanskt",
+        "city": "G\u00f6teborg",
+        "latitude": "57.704395",
+        "longitude": "11.963314"
+    },
+    {
+        "clientKey": "0XkhdINDPAPFK0bSWJ",
+        "restaurantName": "Wrapped Burrito Bar Drottninggatan",
+        "cuisine": "Mexikanskt",
+        "city": "G\u00f6teborg",
+        "latitude": "57.706287",
+        "longitude": "11.970827"
+    },
+    {
+        "clientKey": "1MRGdiw4sV8MT8UQSg",
+        "restaurantName": "Khao Tip Thai",
+        "cuisine": "Thai",
+        "city": "G\u00f6teborg",
+        "latitude": "57.722939",
+        "longitude": "11.934926"
+    },
+    {
+        "clientKey": "ZizzJe0PoLiD6vfOsw",
+        "restaurantName": "M\u00e5rtens Pizzeria",
+        "cuisine": "Pizza",
+        "city": "Lund",
+        "latitude": "55.701153",
+        "longitude": "13.195165"
+    },
+    {
+        "clientKey": "k9JCjtErTR08BGd9LA",
+        "restaurantName": "Gott & N\u00e4ra",
+        "cuisine": "Pizzeria",
+        "city": "Lund",
+        "latitude": "55.709587",
+        "longitude": "13.207954"
+    },
+    {
+        "clientKey": "loZvfC11Bbd81c5VnT",
+        "restaurantName": "Shiraz Saluhallen",
+        "cuisine": "Mellan\u00f6stern",
+        "city": "Lund",
+        "latitude": "55.701710",
+        "longitude": "13.195189"
+    },
+    {
+        "clientKey": "O9W6fwCMsix0SgzWvj",
+        "restaurantName": "Smyrna Pizza & Restaurang",
+        "cuisine": "Pizza",
+        "city": "Lund",
+        "latitude": "55.708908",
+        "longitude": "13.193741"
+    },
+    {
+        "clientKey": "P2soYEP55alYl50gPF",
+        "restaurantName": "Olympia Pizza & Caf\u00e9",
+        "cuisine": "Pizza",
+        "city": "Lund",
+        "latitude": "55.709717",
+        "longitude": "13.215888"
+    },
+    {
+        "clientKey": "loBlFrIHgYUQWyW7PQ",
+        "restaurantName": "GrillStation",
+        "cuisine": "Snabbmat",
+        "city": "Lund",
+        "latitude": "55.706696",
+        "longitude": "13.189543"
+    },
+    {
+        "clientKey": "CaHDkmMBNHViufHGgd",
+        "restaurantName": "Redfellas Triangeln",
+        "cuisine": "Sallad",
+        "city": "Malm\u00f6",
+        "latitude": "55.596207",
+        "longitude": "13.002043"
+    },
+    {
+        "clientKey": "IHX3pYp9m0wXjfVp1v",
+        "restaurantName": "Lund-Berlin",
+        "cuisine": "D\u00f6ner",
+        "city": "Lund",
+        "latitude": "55.706566",
+        "longitude": "13.189513"
+    },
+    {
+        "clientKey": "5glItooxRlCg1bQtvb",
+        "restaurantName": "4-Gott Avenyn",
+        "cuisine": "Godis",
+        "city": "G\u00f6teborg",
+        "latitude": "57.697987",
+        "longitude": "11.978000"
+    },
+    {
+        "clientKey": "rm90Rpf6aH17ZtiFQt",
+        "restaurantName": "PizzaTime",
+        "cuisine": "Pizza",
+        "city": "G\u00f6teborg ",
+        "latitude": "57.667736",
+        "longitude": "11.931370"
+    },
+    {
+        "clientKey": "EKWYPnnX2CpDzVmfZZ",
+        "restaurantName": "Backa Pizza Plus",
+        "cuisine": "Pizza",
+        "city": "G\u00f6teborg",
+        "latitude": "57.733749",
+        "longitude": "11.972514"
+    },
+    {
+        "clientKey": "NlQ1CjTwLmA2ulCY9r",
+        "restaurantName": "Nym\u00e5ne Pizzeria & Livs",
+        "cuisine": "Pizza",
+        "city": "G\u00f6teborg",
+        "latitude": "57.744583",
+        "longitude": "12.027224"
+    },
+    {
+        "clientKey": "wodHn4vbfoxxFAuWW8",
+        "restaurantName": "Pomerans",
+        "cuisine": "Pizza",
+        "city": "G\u00f6teborg",
+        "latitude": "57.715191",
+        "longitude": "11.889770"
+    },
+    {
+        "clientKey": "oIdWN9dfjhGORmEPEw",
+        "restaurantName": "Snabbt & Gott Mariedalsgrillen",
+        "cuisine": "Gatuk\u00f6k",
+        "city": "Malm\u00f6",
+        "latitude": "55.597771",
+        "longitude": "12.983163"
+    },
+    {
+        "clientKey": "VvB2NHlkei7RJeD80j",
+        "restaurantName": "Snabbt & Gott Carl Gustafs v\u00e4g",
+        "cuisine": "Gatuk\u00f6k",
+        "city": "Malm\u00f6",
+        "latitude": "55.591976",
+        "longitude": "12.998392"
+    },
+    {
+        "clientKey": "aFP3hIgaPGiYGVxEiN",
+        "restaurantName": "Thoms Grillhouse",
+        "cuisine": "Grill",
+        "city": "G\u00f6teborg",
+        "latitude": "57.647099",
+        "longitude": "11.940669"
+    },
+    {
+        "clientKey": "VD5BdurF0jbZmESG7s",
+        "restaurantName": "Pizzeria Mums",
+        "cuisine": "Pizza",
+        "city": "G\u00f6teborg",
+        "latitude": "57.669350",
+        "longitude": "12.009841"
+    },
+    {
+        "clientKey": "MIJN89EA4Ri6EAA1Wr",
+        "restaurantName": "Indian Ocean",
+        "cuisine": "Indiskt",
+        "city": "G\u00f6teborg",
+        "latitude": "57.733227",
+        "longitude": "12.022231"
+    },
+    {
+        "clientKey": "0ix5z6aXyOrQTBWKHF",
+        "restaurantName": "Al Habesha",
+        "cuisine": "Etiopiskt",
+        "city": "G\u00f6teborg",
+        "latitude": "57.729534",
+        "longitude": "12.013510"
+    },
+    {
+        "clientKey": "ifz8YQWjn11vEGr24B",
+        "restaurantName": "Sushi Miyabi",
+        "cuisine": "Sushi",
+        "city": "G\u00f6teborg ",
+        "latitude": "57.651127",
+        "longitude": "11.939087"
+    },
+    {
+        "clientKey": "E0loHWPA6cHHtfgmYH",
+        "restaurantName": "Venus Pizzeria",
+        "cuisine": "Pizza",
+        "city": "G\u00f6teborg",
+        "latitude": "57.711014",
+        "longitude": "11.993555"
+    },
+    {
+        "clientKey": "YsnhgiV45HGlZ3M0eW",
+        "restaurantName": "Thaitastic",
+        "cuisine": "Thai",
+        "city": "Stockholm",
+        "latitude": "59.341827",
+        "longitude": "18.037027"
+    },
+    {
+        "clientKey": "IVf9k4NkSSXWny6PSR",
+        "restaurantName": "MiXit Salladsbar & Caf\u00e9",
+        "cuisine": "Sallad",
+        "city": "G\u00f6teborg",
+        "latitude": "57.709648",
+        "longitude": "11.993782"
+    },
+    {
+        "clientKey": "lQMZnUxKSI9tvSXoVM",
+        "restaurantName": "Abbes Grill & Pizzeria",
+        "cuisine": "Grill",
+        "city": "G\u00f6teborg",
+        "latitude": "57.699764",
+        "longitude": "11.953683"
+    },
+    {
+        "clientKey": "aDMGTjadmSHeWLFBxS",
+        "restaurantName": "Hawaiian Poke",
+        "cuisine": "Pok\u00e9 Bowls",
+        "city": "Malm\u00f6",
+        "latitude": "55.604134",
+        "longitude": "13.003274"
+    },
+    {
+        "clientKey": "vbiFfxpGXoAnwLmIr7",
+        "restaurantName": "Abbes V\u00e5fflor & Crepes",
+        "cuisine": "V\u00e5fflor",
+        "city": "G\u00f6teborg",
+        "latitude": "57.699764",
+        "longitude": "11.953683"
+    },
+    {
+        "clientKey": "G7BKSj9aMJcxOH7bAB",
+        "restaurantName": "Hisingens Pizzeria",
+        "cuisine": "Pizza",
+        "city": "G\u00f6teborg",
+        "latitude": "57.719574",
+        "longitude": "11.958988"
+    },
+    {
+        "clientKey": "DL7DdHR8P1PIReSPTf",
+        "restaurantName": "Cyrano Olskroken",
+        "cuisine": "Pizza",
+        "city": "G\u00f6teborg",
+        "latitude": "57.713390",
+        "longitude": "11.997527"
+    },
+    {
+        "clientKey": "n0dGdSx0nPWyQyhnyl",
+        "restaurantName": "Cyrano Majorna",
+        "cuisine": "Pizza",
+        "city": "G\u00f6teborg",
+        "latitude": "57.693398",
+        "longitude": "11.918013"
+    },
+    {
+        "clientKey": "8UyYw46SjhGpk9XC3E",
+        "restaurantName": "Cyrano Vasa",
+        "cuisine": "Pizza",
+        "city": "G\u00f6teborg",
+        "latitude": "57.696968",
+        "longitude": "11.966407"
+    },
+    {
+        "clientKey": "bgUnQwriBr5PFd4C0I",
+        "restaurantName": "Panini Internazionale Hornstull",
+        "cuisine": "H\u00e4lsocaf\u00e9",
+        "city": "Stockholm",
+        "latitude": "59.315769",
+        "longitude": "18.034256"
+    },
+    {
+        "clientKey": "P8oYOTS2LFKHG0j6Je",
+        "restaurantName": "Panini Internazionale Sveav\u00e4gen",
+        "cuisine": "H\u00e4lsocaf\u00e9",
+        "city": "Stockholm",
+        "latitude": "59.341003",
+        "longitude": "18.057919"
+    },
+    {
+        "clientKey": "Mnc60NHlwhXEFJZJA3",
+        "restaurantName": "Pizzeria Matstugan",
+        "cuisine": "Pizza",
+        "city": "G\u00f6teborg",
+        "latitude": "57.732582",
+        "longitude": "12.010166"
+    },
+    {
+        "clientKey": "9yfAGKObA7caEMPlbb",
+        "restaurantName": "OPA! Greekstyle",
+        "cuisine": "Grekiskt",
+        "city": "Malm\u00f6",
+        "latitude": "55.601364",
+        "longitude": "13.000005"
+    },
+    {
+        "clientKey": "c0mHJDhK63sLsQ5JKH",
+        "restaurantName": "Miss Fajitas",
+        "cuisine": "Fajitas",
+        "city": "G\u00f6teborg",
+        "latitude": "57.687542",
+        "longitude": "11.982667"
+    },
+    {
+        "clientKey": "eGeebsakoiIGM8asng",
+        "restaurantName": "Max Lockarp",
+        "cuisine": "Hamburgare",
+        "city": "Malm\u00f6",
+        "latitude": "55.572289",
+        "longitude": "13.038422"
+    },
+    {
+        "clientKey": "fIwlts5HOSMqUgI3YD",
+        "restaurantName": "MAMA Kungsgatan",
+        "cuisine": "Casual fast dining",
+        "city": "Stockholm",
+        "latitude": "59.336266",
+        "longitude": "18.068010"
+    }
+]
