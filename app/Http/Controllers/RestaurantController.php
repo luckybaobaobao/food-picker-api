@@ -50,7 +50,7 @@ class RestaurantController extends Controller
                 if ($result->count() > 0) {
                     return new JsonResource(
                         [
-                            'companies' => $result->toArray()
+                            'restaurants' => $result->toArray()
                         ]
                     );
                 }
@@ -60,14 +60,22 @@ class RestaurantController extends Controller
         /* If no restaurant entities where found in the freeText search, try to find cities or cuisines */
         $city = City::where('name', 'LIKE', "%{$freeText}%")->first();
 
-        if ($city) {
-            return new CityResource($city);
+        if ($city && $city->restaurants) {
+            return new JsonResource(
+                [
+                    'restaurants' => $city->restaurants->toArray()
+                ]
+            );
         }
 
         $cuisine = Cuisine::where('name', 'LIKE', "%{$freeText}%")->first();
 
-        if ($cuisine) {
-            return new CuisineResource($cuisine);
+        if ($cuisine && $cuisine->restaurants) {
+            return new JsonResource(
+                [
+                    'restaurants' => $cuisine->restaurants->toArray()
+                ]
+            );
         }
 
         return abort(404);

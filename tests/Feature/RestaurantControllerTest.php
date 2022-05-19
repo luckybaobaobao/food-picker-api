@@ -33,14 +33,14 @@ class RestaurantControllerTest extends TestCase
     {
         $response = $this->get('api/restaurant/index/tapas')->json();
 
-        $this->assertCount(2, $response['data']['companies']);
+        $this->assertCount(2, $response['data']['restaurants']);
     }
 
-    public function test_that_restaurant_show_freetext_returns_cuisine()
+    public function test_that_restaurant_show_freetext_returns_restaurants_from_cuisine()
     {
-        $response = $this->get('api/restaurant/index/spansk tapas')->json();
+        $response = $this->get('api/restaurant/index/Vietnamesiskt')->json();
 
-        $this->assertEquals($response['data']['name'], 'Spansk Tapas');
+        $this->assertCount(5, $response['data']['restaurants']);
     }
 
     public function test_that_restaurant_show_freetext_returns_404()
