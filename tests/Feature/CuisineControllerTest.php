@@ -3,9 +3,14 @@
 namespace Tests\Feature;
 
 use Tests\TestCase;
+use Illuminate\Foundation\Testing\RefreshDatabase;
 
 class CuisineControllerTest extends TestCase
 {
+    use RefreshDatabase;
+
+    protected $seed = true;
+    
     public function test_that_cuisine_show_returns_cuisine()
     {
         $response = $this->get('api/cuisine/Burgers');

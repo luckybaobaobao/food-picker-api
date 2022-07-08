@@ -3,13 +3,17 @@
 namespace Tests\Feature;
 
 use Tests\TestCase;
+use Illuminate\Foundation\Testing\RefreshDatabase;
 
 class RestaurantControllerTest extends TestCase
 {
+    use RefreshDatabase;
+
+    protected $seed = true;
     
     public function test_that_restaurant_show_name_returns_restaurant()
     {
-        $response = $this->get('api/restaurant/name/Delikatessen')->json();
+        $response = $this->get('api/restaurant/Delikatessen')->json();
 
         $this->assertEquals($response['data']['name'], 'Delikatessen');
         $this->assertEquals($response['data']['client_key'], 'CIdMJJ0dqHYB2mdOMs');
@@ -31,14 +35,14 @@ class RestaurantControllerTest extends TestCase
 
     public function test_that_restaurant_show_freetext_returns_restaurant()
     {
-        $response = $this->get('api/restaurant/index/tapas')->json();
+        $response = $this->get('api/restaurant/freetext/tapas')->json();
 
-        $this->assertCount(2, $response['data']['restaurants']);
+        $this->assertCount(1, $response['data']['restaurants']);
     }
 
     public function test_that_restaurant_show_freetext_returns_restaurants_from_cuisine()
     {
-        $response = $this->get('api/restaurant/index/Vietnamesiskt')->json();
+        $response = $this->get('api/restaurant/freetext/Vietnamesiskt')->json();
 
         $this->assertCount(5, $response['data']['restaurants']);
     }

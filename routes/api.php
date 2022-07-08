@@ -17,11 +17,11 @@ use App\Http\Controllers\RestaurantController;
 */
 
 Route::group(['prefix' => 'restaurant'], function () {
-    Route::get('name/{name}', [RestaurantController::class, 'showName']);
+    Route::get('{name}', [RestaurantController::class, 'showName']);
     Route::get('distance/{latitude}/{longitude}', [RestaurantController::class, 'showDistance']);
-    Route::get('index/{freetext}', [RestaurantController::class, 'index']);
+    Route::get('freetext/{freetext}', [RestaurantController::class, 'index']);
 });
 
-Route::resource('city', CityController::class)->only(['show']);
+Route::get('city/{name}', [CityController::class, 'show']);
 
-Route::resource('cuisine', CuisineController::class)->only(['show']);
+Route::get('cuisine/{name}', [CuisineController::class, 'show']);

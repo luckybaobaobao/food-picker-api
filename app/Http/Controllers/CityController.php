@@ -2,15 +2,23 @@
 
 namespace App\Http\Controllers;
 
-use App\Models\City;
+use App\Http\Requests\CityRequest;
+use App\Http\Services\CityService;
 use App\Http\Controllers\Controller;
 use App\Http\Resources\CityResource;
 
 class CityController extends Controller
 {
-    public function show(string $name)
+    private $cityService;
+
+    public function __construct(CityService $cityService)
     {
-        $city = City::where('name', $name)->first();
+        $this->cityService = $cityService;
+    }
+
+    public function show(CityRequest $request)
+    {
+        $city = $this->cityService->findByName($request->name);
 
         if (!$city) {
             return abort(404);

@@ -2,15 +2,23 @@
 
 namespace App\Http\Controllers;
 
-use App\Models\Cuisine;
 use App\Http\Controllers\Controller;
+use App\Http\Requests\CuisineRequest;
+use App\Http\Services\CuisineService;
 use App\Http\Resources\CuisineResource;
 
 class CuisineController extends Controller
 {
-    public function show(string $name)
+    private $cuisineService;
+
+    public function __construct(CuisineService $cuisineService)
     {
-        $cuisine = Cuisine::where('name', $name)->first();
+        $this->cuisineService = $cuisineService;
+    }
+
+    public function show(CuisineRequest $request)
+    {
+        $cuisine = $this->cuisineService->findByName($request->name);
 
         if (!$cuisine) {
             return abort(404);

@@ -3,9 +3,14 @@
 namespace Tests\Feature;
 
 use Tests\TestCase;
+use Illuminate\Foundation\Testing\RefreshDatabase;
 
 class CityControllerTest extends TestCase
 {
+    use RefreshDatabase;
+
+    protected $seed = true;
+
     public function test_that_city_show_returns_city()
     {
         $response = $this->get('api/city/stockholm')->json();
