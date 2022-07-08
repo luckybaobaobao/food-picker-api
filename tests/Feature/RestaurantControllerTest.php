@@ -13,7 +13,7 @@ class RestaurantControllerTest extends TestCase
     
     public function test_that_restaurant_show_name_returns_restaurant()
     {
-        $response = $this->get('api/restaurant/Delikatessen')->json();
+        $response = $this->get('api/restaurant/name/Delikatessen')->json();
 
         $this->assertEquals($response['data']['name'], 'Delikatessen');
         $this->assertEquals($response['data']['client_key'], 'CIdMJJ0dqHYB2mdOMs');
@@ -24,6 +24,13 @@ class RestaurantControllerTest extends TestCase
         $response = $this->get('api/restaurant/name/fourZeroFour');
 
         $response->assertStatus(404);
+    }
+
+    public function test_that_restaurant_show_name_returns_422()
+    {
+        $response = $this->get('api/restaurant/name/<');
+
+        $response->assertStatus(422);
     }
 
     public function test_that_restaurant_show_nearest_returns_restaurant()
@@ -49,7 +56,7 @@ class RestaurantControllerTest extends TestCase
 
     public function test_that_restaurant_show_freetext_returns_404()
     {
-        $response = $this->get('api/restaurant/index/restaurant404');
+        $response = $this->get('api/restaurant/freetext/restaurant404');
 
         $response->assertStatus(404);
     }

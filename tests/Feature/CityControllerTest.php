@@ -25,4 +25,11 @@ class CityControllerTest extends TestCase
 
         $response->assertStatus(404);
     }
+
+    public function test_that_city_name_returns_422()
+    {
+        $response = $this->get('api/restaurant/name/<');
+
+        $response->assertStatus(422);
+    }
 }

@@ -17,7 +17,7 @@ class RestaurantController extends Controller
         $this->restaurantService = $restaurantService;
     }
 
-    public function showName(RestaurantRequest $request)
+    public function show(RestaurantRequest $request)
     {
         $restaurant = $this->restaurantService->findByName($request->name);
 

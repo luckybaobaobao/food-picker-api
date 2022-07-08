@@ -17,7 +17,7 @@ use App\Http\Controllers\RestaurantController;
 */
 
 Route::group(['prefix' => 'restaurant'], function () {
-    Route::get('{name}', [RestaurantController::class, 'showName']);
+    Route::get('name/{name}', [RestaurantController::class, 'show']);
     Route::get('distance/{latitude}/{longitude}', [RestaurantController::class, 'showDistance']);
     Route::get('freetext/{freetext}', [RestaurantController::class, 'index']);
 });

@@ -25,4 +25,11 @@ class CuisineControllerTest extends TestCase
 
         $response->assertStatus(404);
     }
+
+    public function test_that_cuisine_show_returns_422()
+    {
+        $response = $this->get('api/cuisine/>');
+
+        $response->assertStatus(422);
+    }
 }
